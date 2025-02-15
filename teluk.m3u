@@ -1,7 +1,0 @@
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
-#EXTINF:-1 tvg-id="" tvg-name="GMA News TV" tvg-logo="" group-title="", GMA News TV
-https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=https://www.iwanttfc.com/
