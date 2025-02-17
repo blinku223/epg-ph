@@ -172,9 +172,9 @@
     <url>http://www.clickthecity.com</url>
   </channel>
 
-    <channel id="KAPAMILYA.CHANNEL.HD.ph">
-    <display-name lang="en">KAPAMILYA CHANNEL HD</display-name>
-    <url>http://www.mysky.com.ph</url>
+    <channel id="Kapamilya.Channel.ph">
+    <display-name lang="en">Kapamilya Channel</display-name>
+    <url>http://www.clickthecity.com</url>
   </channel>
 
     <channel id="Kix.Hd.ph">
@@ -4953,84 +4953,6 @@
     <title lang="en">Looney Tunes Cartoons Hide Out Hare/ Daffy Magician: An Ordinary Mop/Booby Prize/  End Of The Leash Gags: Pea Shooter/  Balloon Salesman: Porky's Head/Grand Canyon Canary/ Hole In Dumb/Funeral For A Fudd/Practical Jerk/Bottoms Up</title>
     <desc lang="en">Two gangsters regret hiding out in Bugs’ rabbit hole.</desc>
   </programme>
-    <programme start="20250215000000 +0800" stop="20250215020000 +0800" channel="Cinema.One.ph">
-    <title lang="en">I love You, Goodbye</title>
-  </programme>
-  <programme start="20250215020000 +0800" stop="20250215040000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Nang Gabing Mamulat Si Eba</title>
-  </programme>
-  <programme start="20250215040000 +0800" stop="20250215060000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The Art Of Ligaw</title>
-  </programme>
-  <programme start="20250215060000 +0800" stop="20250215080000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Paano Hahatiin ang Puso</title>
-  </programme>
-  <programme start="20250215080000 +0800" stop="20250215100000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Blue Moon</title>
-  </programme>
-  <programme start="20250215100000 +0800" stop="20250215120000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Sarah, Ang Munting Prinsesa</title>
-  </programme>
-  <programme start="20250215120000 +0800" stop="20250215140000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Kung Ako Na Lang Sana</title>
-  </programme>
-  <programme start="20250215140000 +0800" stop="20250215160000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Home Along Da Riles 2</title>
-  </programme>
-  <programme start="20250215160000 +0800" stop="20250215180000 +0800" channel="Cinema.One.ph">
-    <title lang="en">No Other Woman</title>
-  </programme>
-  <programme start="20250215180000 +0800" stop="20250215190000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The B Side</title>
-  </programme>
-  <programme start="20250215190000 +0800" stop="20250215210000 +0800" channel="Cinema.One.ph">
-    <title lang="en">#Walang Forever</title>
-  </programme>
-  <programme start="20250215210000 +0800" stop="20250215230000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Palaban</title>
-  </programme>
-  <programme start="20250215230000 +0800" stop="20250216010000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Ligaya Ang Itawag Mo Sa Akin</title>
-  </programme>
-  <programme start="20250216010000 +0800" stop="20250216030000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Hanggang Sa Huling Bala</title>
-  </programme>
-  <programme start="20250216030000 +0800" stop="20250216050000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Changing Partners</title>
-  </programme>
-  <programme start="20250216050000 +0800" stop="20250216070000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Goodbye America</title>
-  </programme>
-  <programme start="20250216070000 +0800" stop="20250216090000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Di Bale Na Lang</title>
-  </programme>
-  <programme start="20250216090000 +0800" stop="20250216110000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Ani</title>
-  </programme>
-  <programme start="20250216110000 +0800" stop="20250216130000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Lab Kita, Bilib Ka Ba?</title>
-  </programme>
-  <programme start="20250216130000 +0800" stop="20250216150000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Shake, Rattle &amp; Roll X</title>
-  </programme>
-  <programme start="20250216150000 +0800" stop="20250216170000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Kung Fu Divas</title>
-  </programme>
-  <programme start="20250216170000 +0800" stop="20250216190000 +0800" channel="Cinema.One.ph">
-    <title lang="en">He's Into Her The Movie Cut</title>
-  </programme>
-  <programme start="20250216190000 +0800" stop="20250216210000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The Mall The Merrier</title>
-  </programme>
-  <programme start="20250216210000 +0800" stop="20250216220000 +0800" channel="Cinema.One.ph">
-    <title lang="en">The B Side</title>
-  </programme>
-  <programme start="20250216220000 +0800" stop="20250217000000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Kung Mangarap ka't Magising</title>
-  </programme>
-  <programme start="20250217000000 +0800" stop="20250217000000 +0800" channel="Cinema.One.ph">
-    <title lang="en">Malikot Ang Agos Ng Tubig</title>
-  </programme>
   <programme start="20250217000000 +0800" stop="20250217020000 +0800" channel="Cinema.One.ph">
     <title lang="en">Malikot Ang Agos Ng Tubig</title>
   </programme>
@@ -5103,62 +5025,134 @@
   <programme start="20250218210000 +0800" stop="20250218230000 +0800" channel="Cinema.One.ph">
     <title lang="en">The Hopeful Romantic</title>
   </programme>
-    <programme start="20250215130000 +0800" stop="20250215140000 +0800" channel="CINEMO!.ph">
-    <title lang="en">TINGGA NG KATARUNGAN JESS LAPID JR.</title>
+  <programme start="20250218230000 +0800" stop="20250219010000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Seklusyon</title>
   </programme>
-  <programme start="20250215140000 +0800" stop="20250215160000 +0800" channel="CINEMO!.ph">
-    <title lang="en">FPJS BATANG QUIAPO MARATHON</title>
+  <programme start="20250219010000 +0800" stop="20250219030000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Virgin People III</title>
   </programme>
-  <programme start="20250215160000 +0800" stop="20250215170000 +0800" channel="CINEMO!.ph">
-    <title lang="en">FPJS BATANG QUIAPO MARATHON</title>
+  <programme start="20250219030000 +0800" stop="20250219050000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Never Ever Say Goodbye</title>
   </programme>
-  <programme start="20250215170000 +0800" stop="20250215190000 +0800" channel="CINEMO!.ph">
-    <title lang="en">DEAD TRIGGER DOLPH LUNDREN</title>
+  <programme start="20250219050000 +0800" stop="20250219070000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Ging Gang Gooly Giddiyap</title>
   </programme>
-  <programme start="20250215190000 +0800" stop="20250215210000 +0800" channel="CINEMO!.ph">
-    <title lang="en">DRAKULA GOES TO R.P. DOLPHY</title>
+  <programme start="20250219070000 +0800" stop="20250219090000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Langit Sa Piling Mo</title>
   </programme>
-  <programme start="20250215210000 +0800" stop="20250215220000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BUKAS BIBITAYIN SI ITAY JOHN REGALA</title>
+  <programme start="20250219090000 +0800" stop="20250219110000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Mananabas</title>
   </programme>
-  <programme start="20250215220000 +0800" stop="20250215230000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BUKAS BIBITAYIN SI ITAY JOHN REGALA</title>
+  <programme start="20250219110000 +0800" stop="20250219130000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Michael &amp; Madonna 2</title>
   </programme>
-  <programme start="20250215230000 +0800" stop="20250216010000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BEYOND RICHARD DANUM</title>
+  <programme start="20250219130000 +0800" stop="20250219150000 +0800" channel="Cinema.One.ph">
+    <title lang="en">The Heiress</title>
   </programme>
-  <programme start="20250216010000 +0800" stop="20250216030000 +0800" channel="CINEMO!.ph">
-    <title lang="en">LIPSTIK NIKA MADRID</title>
+  <programme start="20250219150000 +0800" stop="20250219170000 +0800" channel="Cinema.One.ph">
+    <title lang="en">BFF (Bestfriends Forever)</title>
   </programme>
-  <programme start="20250216030000 +0800" stop="20250216040000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BUKAS BIBITAYIN SI ITAY JOHN REGALA</title>
+  <programme start="20250219170000 +0800" stop="20250219190000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Wag Kang Lilingon</title>
   </programme>
-  <programme start="20250216040000 +0800" stop="20250216050000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BUKAS BIBITAYIN SI ITAY JOHN REGALA</title>
+  <programme start="20250219190000 +0800" stop="20250219210000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Exes Baggage</title>
   </programme>
-  <programme start="20250216050000 +0800" stop="20250216070000 +0800" channel="CINEMO!.ph">
-    <title lang="en">KISAME STREET DOLPHY</title>
+  <programme start="20250219210000 +0800" stop="20250219230000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Catch Me I'm In Love</title>
   </programme>
-  <programme start="20250216070000 +0800" stop="20250216090000 +0800" channel="CINEMO!.ph">
-    <title lang="en">EVERY BREATH U TAKE PIOLO PASCUAL RESTORED</title>
+  <programme start="20250219230000 +0800" stop="20250220010000 +0800" channel="Cinema.One.ph">
+    <title lang="en">That Thing Called Tadhana</title>
   </programme>
-  <programme start="20250216090000 +0800" stop="20250216110000 +0800" channel="CINEMO!.ph">
-    <title lang="en">SHES THE ONE BEA ALONZO</title>
+  <programme start="20250220010000 +0800" stop="20250220030000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Maiinit Na Puso</title>
   </programme>
-  <programme start="20250216110000 +0800" stop="20250216130000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BES AND THE BESHIES AIAI DELAS ALAS</title>
+  <programme start="20250220030000 +0800" stop="20250220050000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Darna Kuno</title>
   </programme>
-  <programme start="20250216130000 +0800" stop="20250216150000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BIANONG BULAG RAMON REVILLA</title>
+  <programme start="20250220050000 +0800" stop="20250220070000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Masikip Mainit Paraisong Parisukat</title>
   </programme>
-  <programme start="20250216150000 +0800" stop="20250216170000 +0800" channel="CINEMO!.ph">
-    <title lang="en">HUA MULAN LIU CHU XUAN</title>
+  <programme start="20250220070000 +0800" stop="20250220090000 +0800" channel="Cinema.One.ph">
+    <title lang="en">May Nagmamahal Sa Iyo</title>
   </programme>
-  <programme start="20250216170000 +0800" stop="20250216190000 +0800" channel="CINEMO!.ph">
-    <title lang="en">POINTBREAK LUKE BRACEY</title>
+  <programme start="20250220090000 +0800" stop="20250220110000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Samson &amp; Goliath</title>
   </programme>
-  <programme start="20250216190000 +0800" stop="20250216210000 +0800" channel="CINEMO!.ph">
-    <title lang="en">BAUN GANG RUDY FERNANDEZ</title>
+  <programme start="20250220110000 +0800" stop="20250220130000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Flames (The Movie)</title>
+  </programme>
+  <programme start="20250220130000 +0800" stop="20250220150000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Jologs</title>
+  </programme>
+  <programme start="20250220150000 +0800" stop="20250220170000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Mamarazzi</title>
+  </programme>
+  <programme start="20250220170000 +0800" stop="20250220190000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Talk Back and You're Dead</title>
+  </programme>
+  <programme start="20250220190000 +0800" stop="20250220210000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Open</title>
+  </programme>
+  <programme start="20250220210000 +0800" stop="20250220230000 +0800" channel="Cinema.One.ph">
+    <title lang="en">Mirror, Mirror On The Wall</title>
+  </programme>
+  <programme start="20250217130000 +0800" stop="20250217150000 +0800" channel="CINEMO!.ph">
+    <title lang="en">ISKALAWAG RAYMART SANTIAGO</title>
+  </programme>
+  <programme start="20250217150000 +0800" stop="20250217160000 +0800" channel="CINEMO!.ph">
+    <title lang="en">EXCON VICTOR NERI</title>
+  </programme>
+  <programme start="20250217160000 +0800" stop="20250217170000 +0800" channel="CINEMO!.ph">
+    <title lang="en">EXCON VICTOR NERI</title>
+  </programme>
+  <programme start="20250217170000 +0800" stop="20250217190000 +0800" channel="CINEMO!.ph">
+    <title lang="en">EXTRA SERVICE ARCI MUNOZ</title>
+  </programme>
+  <programme start="20250217190000 +0800" stop="20250217210000 +0800" channel="CINEMO!.ph">
+    <title lang="en">REY GINTO TERROR HUNTER MARK JOSEPH</title>
+  </programme>
+  <programme start="20250217210000 +0800" stop="20250217220000 +0800" channel="CINEMO!.ph">
+    <title lang="en">BERDUGO NG ESCALANTE BALDO MARRO</title>
+  </programme>
+  <programme start="20250217220000 +0800" stop="20250217230000 +0800" channel="CINEMO!.ph">
+    <title lang="en">BERDUGO NG ESCALANTE BALDO MARRO</title>
+  </programme>
+  <programme start="20250217230000 +0800" stop="20250218010000 +0800" channel="CINEMO!.ph">
+    <title lang="en">MY FUNNY VALENTINE DOLPHY</title>
+  </programme>
+  <programme start="20250218010000 +0800" stop="20250218030000 +0800" channel="CINEMO!.ph">
+    <title lang="en">NAGHUHUMIYAW CAMILLE ROXAS</title>
+  </programme>
+  <programme start="20250218030000 +0800" stop="20250218040000 +0800" channel="CINEMO!.ph">
+    <title lang="en">PALOS</title>
+  </programme>
+  <programme start="20250218040000 +0800" stop="20250218050000 +0800" channel="CINEMO!.ph">
+    <title lang="en">KAYA NI MISTER , KAYA NI MISIS</title>
+  </programme>
+  <programme start="20250218050000 +0800" stop="20250218070000 +0800" channel="CINEMO!.ph">
+    <title lang="en">ISKALAWAG RAYMART SANTIAGO</title>
+  </programme>
+  <programme start="20250218070000 +0800" stop="20250218090000 +0800" channel="CINEMO!.ph">
+    <title lang="en">DAHIL MAHAL NA MAHAL KITA CLAUDINE BARRETTO</title>
+  </programme>
+  <programme start="20250218090000 +0800" stop="20250218110000 +0800" channel="CINEMO!.ph">
+    <title lang="en">AEIOU LEO MARTINEZ</title>
+  </programme>
+  <programme start="20250218110000 +0800" stop="20250218130000 +0800" channel="CINEMO!.ph">
+    <title lang="en">SMALL MEDIUM LARGE RENE REQUIESTAS</title>
+  </programme>
+  <programme start="20250218130000 +0800" stop="20250218150000 +0800" channel="CINEMO!.ph">
+    <title lang="en">ROOKIE &amp; THE MIGHTY KIDS RONNIE RICKETTS</title>
+  </programme>
+  <programme start="20250218150000 +0800" stop="20250218170000 +0800" channel="CINEMO!.ph">
+    <title lang="en">UTOL VICTOR NERI</title>
+  </programme>
+  <programme start="20250218170000 +0800" stop="20250218190000 +0800" channel="CINEMO!.ph">
+    <title lang="en">DI PA TAPOS ANG LABADA, DARLING VIC SOTTO</title>
+  </programme>
+  <programme start="20250218190000 +0800" stop="20250218210000 +0800" channel="CINEMO!.ph">
+    <title lang="en">TAKAS SA IMPIYERNO RICKY DAVAO</title>
   </programme>
     <programme start="20250214193500 -0600" stop="20250214212500 -0600" channel="Cg.Cinemax.ph">
     <title lang="en">The Heartbreak Kid</title>
@@ -14448,98 +14442,266 @@
   <programme start="20250218233000 +0800" stop="20250219000000 +0800" channel="Jeepney.TV.ph">
     <title lang="en">We Will Survive</title>
   </programme>
-<programme start="20250215130000 +0800" stop="20250215143000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">ITS SHOWTIME</title>
+  <programme start="20250217020000 +0800" stop="20250217034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
   </programme>
-  <programme start="20250215143000 +0800" stop="20250215151500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">HUWAG KANG MANGAMBA</title>
+  <programme start="20250217034500 +0800" stop="20250217053000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
   </programme>
-  <programme start="20250215151500 +0800" stop="20250215160000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">KAPAMILYA ACTION SABADO</title>
+  <programme start="20250217053000 +0800" stop="20250217060000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
   </programme>
-  <programme start="20250215160000 +0800" stop="20250215171500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">KAPAMILYA ACTION SABADO</title>
+  <programme start="20250217060000 +0800" stop="20250217070000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">School Anywhere sa Kapamilya Channel</title>
   </programme>
-  <programme start="20250215171500 +0800" stop="20250215181500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">TV PATROL SATURDAY</title>
+  <programme start="20250217070000 +0800" stop="20250217080000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Marina</title>
   </programme>
-  <programme start="20250215181500 +0800" stop="20250215190000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">RATED KORINA</title>
+  <programme start="20250217080000 +0800" stop="20250217083000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Flying House</title>
   </programme>
-  <programme start="20250215190000 +0800" stop="20250215191500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">RATED KORINA</title>
+  <programme start="20250217083000 +0800" stop="20250217090000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Superbook Reimagined</title>
   </programme>
-  <programme start="20250215191500 +0800" stop="20250215203000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">RAINBOW RUMBLE</title>
+  <programme start="20250217090000 +0800" stop="20250217100000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Magandang Buhay</title>
   </programme>
-  <programme start="20250215203000 +0800" stop="20250215211500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">TIME TO DANCE</title>
+  <programme start="20250217100000 +0800" stop="20250217120000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
   </programme>
-  <programme start="20250215211500 +0800" stop="20250215220000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MEGA BLOCKBUSTERS</title>
+  <programme start="20250217120000 +0800" stop="20250217143000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
   </programme>
-  <programme start="20250215220000 +0800" stop="20250215223000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MEGA BLOCKBUSTERS</title>
+  <programme start="20250217143000 +0800" stop="20250217151500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
   </programme>
-  <programme start="20250215223000 +0800" stop="20250216000000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">SUPER KAPAMILYA BLOCKBUSTERS</title>
+  <programme start="20250217151500 +0800" stop="20250217160000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Viral Scandal</title>
   </programme>
-  <programme start="20250216000000 +0800" stop="20250216010000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MOVIE CENTRAL PRESENTS 1</title>
+  <programme start="20250217160000 +0800" stop="20250217173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
   </programme>
-  <programme start="20250216010000 +0800" stop="20250216020000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MOVIE CENTRAL PRESENTS 1</title>
+  <programme start="20250217173000 +0800" stop="20250217174500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Express</title>
   </programme>
-  <programme start="20250216020000 +0800" stop="20250216040000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MOVIE CENTRAL PRESENTS 2</title>
+  <programme start="20250217174500 +0800" stop="20250217183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
   </programme>
-  <programme start="20250216040000 +0800" stop="20250216060000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MOVIE CENTRAL PRESENTS 3</title>
+  <programme start="20250217183000 +0800" stop="20250217200000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol</title>
   </programme>
-  <programme start="20250216060000 +0800" stop="20250216070000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">HEALING EUCHARIST SUNDAY MASS</title>
+  <programme start="20250217200000 +0800" stop="20250217204500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
   </programme>
-  <programme start="20250216070000 +0800" stop="20250216072500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">WIKAHARIAN ONLINE WORLD</title>
+  <programme start="20250217204500 +0800" stop="20250217213000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Incognito</title>
   </programme>
-  <programme start="20250216072500 +0800" stop="20250216075000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">READY SET READ</title>
+  <programme start="20250217213000 +0800" stop="20250217221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">How to Spot A Red Flag</title>
   </programme>
-  <programme start="20250216075000 +0800" stop="20250216081500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MATHDALI</title>
+  <programme start="20250217221500 +0800" stop="20250217224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Untamed</title>
   </programme>
-  <programme start="20250216081500 +0800" stop="20250216084000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">ESTUDYANTIPID</title>
+  <programme start="20250217224500 +0800" stop="20250217231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
   </programme>
-  <programme start="20250216084000 +0800" stop="20250216090000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">WOW</title>
+  <programme start="20250217231500 +0800" stop="20250218020000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
   </programme>
-  <programme start="20250216090000 +0800" stop="20250216103000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">KB FAMILY WEEKEND 1</title>
+  <programme start="20250218020000 +0800" stop="20250218034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
   </programme>
-  <programme start="20250216103000 +0800" stop="20250216120000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">KB FAMILY WEEKEND 2</title>
+  <programme start="20250218034500 +0800" stop="20250218053000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
   </programme>
-  <programme start="20250216120000 +0800" stop="20250216141500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">ASAP</title>
+  <programme start="20250218053000 +0800" stop="20250218060000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
   </programme>
-  <programme start="20250216141500 +0800" stop="20250216160000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">SUNDAY BLOCKBUSTERS</title>
+  <programme start="20250218060000 +0800" stop="20250218070000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">School Anywhere sa Kapamilya Channel</title>
   </programme>
-  <programme start="20250216160000 +0800" stop="20250216163000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">MY PUHUNAN</title>
+  <programme start="20250218070000 +0800" stop="20250218080000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Marina</title>
   </programme>
-  <programme start="20250216163000 +0800" stop="20250216173000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">KUAN ON ONE</title>
+  <programme start="20250218080000 +0800" stop="20250218083000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Flying House</title>
   </programme>
-  <programme start="20250216173000 +0800" stop="20250216183000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">TV PATROL SUNDAY</title>
+  <programme start="20250218083000 +0800" stop="20250218090000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Superbook Reimagined</title>
   </programme>
-  <programme start="20250216183000 +0800" stop="20250216191500 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">TAO PO</title>
+  <programme start="20250218090000 +0800" stop="20250218100000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Magandang Buhay</title>
   </programme>
-  <programme start="20250216191500 +0800" stop="20250216203000 +0800" channel="KAPAMILYA.CHANNEL.HD.ph">
-    <title lang="en">RAINBOW RUMBLE</title>
+  <programme start="20250218100000 +0800" stop="20250218120000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20250218120000 +0800" stop="20250218143000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250218143000 +0800" stop="20250218151500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250218151500 +0800" stop="20250218160000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250218160000 +0800" stop="20250218173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+  </programme>
+  <programme start="20250218173000 +0800" stop="20250218174500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250218174500 +0800" stop="20250218183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250218183000 +0800" stop="20250218200000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250218200000 +0800" stop="20250218204500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250218204500 +0800" stop="20250218213000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250218213000 +0800" stop="20250218221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250218221500 +0800" stop="20250218224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250218224500 +0800" stop="20250218231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20250218231500 +0800" stop="20250219020000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250219020000 +0800" stop="20250219034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250219034500 +0800" stop="20250219053000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250219053000 +0800" stop="20250219060000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20250219060000 +0800" stop="20250219070000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">School Anywhere sa Kapamilya Channel</title>
+  </programme>
+  <programme start="20250219070000 +0800" stop="20250219080000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Marina</title>
+  </programme>
+  <programme start="20250219080000 +0800" stop="20250219083000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Flying House</title>
+  </programme>
+  <programme start="20250219083000 +0800" stop="20250219090000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250219090000 +0800" stop="20250219100000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250219100000 +0800" stop="20250219120000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20250219120000 +0800" stop="20250219143000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250219143000 +0800" stop="20250219151500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250219151500 +0800" stop="20250219160000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250219160000 +0800" stop="20250219173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+  </programme>
+  <programme start="20250219173000 +0800" stop="20250219174500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250219174500 +0800" stop="20250219183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250219183000 +0800" stop="20250219200000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250219200000 +0800" stop="20250219204500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250219204500 +0800" stop="20250219213000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250219213000 +0800" stop="20250219221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250219221500 +0800" stop="20250219224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250219224500 +0800" stop="20250219231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20250219231500 +0800" stop="20250220020000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250220020000 +0800" stop="20250220034500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250220034500 +0800" stop="20250220053000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20250220053000 +0800" stop="20250220060000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+  </programme>
+  <programme start="20250220060000 +0800" stop="20250220070000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">School Anywhere sa Kapamilya Channel</title>
+  </programme>
+  <programme start="20250220070000 +0800" stop="20250220080000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Marina</title>
+  </programme>
+  <programme start="20250220080000 +0800" stop="20250220083000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Flying House</title>
+  </programme>
+  <programme start="20250220083000 +0800" stop="20250220090000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250220090000 +0800" stop="20250220100000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250220100000 +0800" stop="20250220120000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Blockbusters</title>
+  </programme>
+  <programme start="20250220120000 +0800" stop="20250220143000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250220143000 +0800" stop="20250220151500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250220151500 +0800" stop="20250220160000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250220160000 +0800" stop="20250220173000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+  </programme>
+  <programme start="20250220173000 +0800" stop="20250220174500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250220174500 +0800" stop="20250220183000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250220183000 +0800" stop="20250220200000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250220200000 +0800" stop="20250220204500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250220204500 +0800" stop="20250220213000 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250220213000 +0800" stop="20250220221500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250220221500 +0800" stop="20250220224500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250220224500 +0800" stop="20250220231500 +0800" channel="Kapamilya.Channel.ph">
+    <title lang="en">The World Tonight</title>
   </programme>
     <programme start="20250214191000 -0600" stop="20250214211500 -0600" channel="Kix.Hd.ph">
     <title lang="en">The Fishermen and the Sea S3</title>
