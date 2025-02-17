@@ -2,9 +2,9 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="none" generator-info-url="none">
-  <channel id="A2Z.ph">
-    <display-name lang="en">A2Z</display-name>
-    <url>http://www.mysky.com.ph</url>
+  <channel id="a2z.Channel.11.ph">
+    <display-name lang="en">a2z Channel 11</display-name>
+    <url>http://www.clickthecity.com</url>
   </channel>
 
     <channel id="AFN.(HD).sg">
@@ -337,77 +337,242 @@
     <url>http://www.cignalplay.com</url>
   </channel>
 
- <programme start="20250215130000 +0800" stop="20250215143000 +0800" channel="A2Z.ph">
-    <title lang="en">Its Showtime</title>
-  </programme>
-  <programme start="20250215143000 +0800" stop="20250215151500 +0800" channel="A2Z.ph">
-    <title lang="en">Huwag Kang Mangamba</title>
-  </programme>
-  <programme start="20250215151500 +0800" stop="20250215160000 +0800" channel="A2Z.ph">
-    <title lang="en">Zine Aksyon</title>
-  </programme>
-  <programme start="20250215160000 +0800" stop="20250215171500 +0800" channel="A2Z.ph">
-    <title lang="en">Zine Aksyon</title>
-  </programme>
-  <programme start="20250215171500 +0800" stop="20250215181500 +0800" channel="A2Z.ph">
-    <title lang="en">TV Patrol Weekend</title>
-  </programme>
-  <programme start="20250215181500 +0800" stop="20250215190000 +0800" channel="A2Z.ph">
-    <title lang="en">Rated Korina</title>
-  </programme>
-  <programme start="20250215190000 +0800" stop="20250215191500 +0800" channel="A2Z.ph">
-    <title lang="en">Rated Korina</title>
-  </programme>
-  <programme start="20250215191500 +0800" stop="20250215203000 +0800" channel="A2Z.ph">
-    <title lang="en">Rainbow Rumble</title>
-  </programme>
-  <programme start="20250215203000 +0800" stop="20250215211500 +0800" channel="A2Z.ph">
-    <title lang="en">Time To Dance</title>
-  </programme>
-  <programme start="20250215211500 +0800" stop="20250215220000 +0800" channel="A2Z.ph">
-    <title lang="en">Mega Blockbusters</title>
-  </programme>
-  <programme start="20250215220000 +0800" stop="20250215223000 +0800" channel="A2Z.ph">
-    <title lang="en">Mega Blockbusters</title>
-  </programme>
-  <programme start="20250215223000 +0800" stop="20250216060000 +0800" channel="A2Z.ph">
-    <title lang="en">Jesus The Healer</title>
-  </programme>
-  <programme start="20250216060000 +0800" stop="20250216070000 +0800" channel="A2Z.ph">
+   <programme start="20250217050000 +0800" stop="20250217060000 +0800" channel="a2z.Channel.11.ph">
     <title lang="en">Shuffle</title>
   </programme>
-  <programme start="20250216070000 +0800" stop="20250216090000 +0800" channel="A2Z.ph">
-    <title lang="en">Jesus Is Lord Sunday Worship And Healing Service</title>
+  <programme start="20250217060000 +0800" stop="20250217070000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
   </programme>
-  <programme start="20250216090000 +0800" stop="20250216093000 +0800" channel="A2Z.ph">
-    <title lang="en">Team Yey Sunday Funday</title>
+  <programme start="20250217070000 +0800" stop="20250217080000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">A2Z School Everywhere</title>
   </programme>
-  <programme start="20250216093000 +0800" stop="20250216100000 +0800" channel="A2Z.ph">
-    <title lang="en">Wansapanataym</title>
+  <programme start="20250217080000 +0800" stop="20250217083000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Flying House</title>
   </programme>
-  <programme start="20250216100000 +0800" stop="20250216120000 +0800" channel="A2Z.ph">
+  <programme start="20250217083000 +0800" stop="20250217090000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250217090000 +0800" stop="20250217100000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250217100000 +0800" stop="20250217120000 +0800" channel="a2z.Channel.11.ph">
     <title lang="en">Zinema Sa Umaga</title>
   </programme>
-  <programme start="20250216120000 +0800" stop="20250216141500 +0800" channel="A2Z.ph">
-    <title lang="en">ASAP</title>
+  <programme start="20250217120000 +0800" stop="20250217143000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
   </programme>
-  <programme start="20250216141500 +0800" stop="20250216160000 +0800" channel="A2Z.ph">
-    <title lang="en">Sunday Blockbusters</title>
+  <programme start="20250217143000 +0800" stop="20250217151500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
   </programme>
-  <programme start="20250216160000 +0800" stop="20250216163000 +0800" channel="A2Z.ph">
-    <title lang="en">My Puhunan</title>
+  <programme start="20250217151500 +0800" stop="20250217160000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Viral Scandal</title>
   </programme>
-  <programme start="20250216163000 +0800" stop="20250216173000 +0800" channel="A2Z.ph">
-    <title lang="en">Kuan On One</title>
+  <programme start="20250217160000 +0800" stop="20250217173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Afternoon Zinema</title>
   </programme>
-  <programme start="20250216173000 +0800" stop="20250216183000 +0800" channel="A2Z.ph">
-    <title lang="en">TV Patrol Weekend</title>
+  <programme start="20250217173000 +0800" stop="20250217174500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Express</title>
   </programme>
-  <programme start="20250216183000 +0800" stop="20250216191500 +0800" channel="A2Z.ph">
-    <title lang="en">Tao Po</title>
+  <programme start="20250217174500 +0800" stop="20250217183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
   </programme>
-  <programme start="20250216191500 +0800" stop="20250216203000 +0800" channel="A2Z.ph">
-    <title lang="en">Rainbow Rumble</title>
+  <programme start="20250217183000 +0800" stop="20250217200000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250217200000 +0800" stop="20250217204500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250217204500 +0800" stop="20250217213000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250217213000 +0800" stop="20250217221500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250217221500 +0800" stop="20250217224500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250217224500 +0800" stop="20250217231500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20250217231500 +0800" stop="20250218050000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250218050000 +0800" stop="20250218060000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20250218060000 +0800" stop="20250218070000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250218070000 +0800" stop="20250218080000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20250218080000 +0800" stop="20250218083000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Flying House</title>
+  </programme>
+  <programme start="20250218083000 +0800" stop="20250218090000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250218090000 +0800" stop="20250218100000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250218100000 +0800" stop="20250218120000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Zinema Sa Umaga</title>
+  </programme>
+  <programme start="20250218120000 +0800" stop="20250218143000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250218143000 +0800" stop="20250218151500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250218151500 +0800" stop="20250218160000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250218160000 +0800" stop="20250218173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Afternoon Zinema</title>
+  </programme>
+  <programme start="20250218173000 +0800" stop="20250218174500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250218174500 +0800" stop="20250218183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250218183000 +0800" stop="20250218200000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250218200000 +0800" stop="20250218204500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250218204500 +0800" stop="20250218213000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250218213000 +0800" stop="20250218221500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250218221500 +0800" stop="20250218224500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250218224500 +0800" stop="20250218231500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20250218231500 +0800" stop="20250219050000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250219050000 +0800" stop="20250219060000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20250219060000 +0800" stop="20250219070000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250219070000 +0800" stop="20250219080000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20250219080000 +0800" stop="20250219083000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Flying House</title>
+  </programme>
+  <programme start="20250219083000 +0800" stop="20250219090000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250219090000 +0800" stop="20250219100000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250219100000 +0800" stop="20250219120000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Zinema Sa Umaga</title>
+  </programme>
+  <programme start="20250219120000 +0800" stop="20250219143000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250219143000 +0800" stop="20250219151500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250219151500 +0800" stop="20250219160000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250219160000 +0800" stop="20250219173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Afternoon Zinema</title>
+  </programme>
+  <programme start="20250219173000 +0800" stop="20250219174500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250219174500 +0800" stop="20250219183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250219183000 +0800" stop="20250219200000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250219200000 +0800" stop="20250219204500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250219204500 +0800" stop="20250219213000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250219213000 +0800" stop="20250219221500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250219221500 +0800" stop="20250219224500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250219224500 +0800" stop="20250219231500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20250219231500 +0800" stop="20250220050000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250220050000 +0800" stop="20250220060000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Shuffle</title>
+  </programme>
+  <programme start="20250220060000 +0800" stop="20250220070000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+  </programme>
+  <programme start="20250220070000 +0800" stop="20250220080000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">A2Z School Everywhere</title>
+  </programme>
+  <programme start="20250220080000 +0800" stop="20250220083000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Flying House</title>
+  </programme>
+  <programme start="20250220083000 +0800" stop="20250220090000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20250220090000 +0800" stop="20250220100000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20250220100000 +0800" stop="20250220120000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Zinema Sa Umaga</title>
+  </programme>
+  <programme start="20250220120000 +0800" stop="20250220143000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20250220143000 +0800" stop="20250220151500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20250220151500 +0800" stop="20250220160000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Viral Scandal</title>
+  </programme>
+  <programme start="20250220160000 +0800" stop="20250220173000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Afternoon Zinema</title>
+  </programme>
+  <programme start="20250220173000 +0800" stop="20250220174500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol Express</title>
+  </programme>
+  <programme start="20250220174500 +0800" stop="20250220183000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+  </programme>
+  <programme start="20250220183000 +0800" stop="20250220200000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20250220200000 +0800" stop="20250220204500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+  </programme>
+  <programme start="20250220204500 +0800" stop="20250220213000 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Incognito</title>
+  </programme>
+  <programme start="20250220213000 +0800" stop="20250220221500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">How to Spot A Red Flag</title>
+  </programme>
+  <programme start="20250220221500 +0800" stop="20250220224500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">The Untamed</title>
+  </programme>
+  <programme start="20250220224500 +0800" stop="20250220231500 +0800" channel="a2z.Channel.11.ph">
+    <title lang="en">Balitang A2Z</title>
   </programme>
     <programme start="20250216000000 +0800" stop="20250216002500 +0800" channel="AFN.(HD).sg">
     <title lang="en">Makan Kakis - Heritage Edition (S1)</title>
