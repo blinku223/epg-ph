@@ -112,7 +112,7 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
 
-    <channel id="GMA.Life.TV.us">
+  <channel id="GMA.Life.TV.ca">
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">GMA Life TV</display-name>
   </channel>
@@ -312,7 +312,7 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
 
-    <channel id="TFC.-.The.Filipino.Channel.us">
+  <channel id="TFC.-.The.Filipino.Channel.ca">
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">TFC - The Filipino Channel</display-name>
   </channel>
@@ -10803,299 +10803,299 @@
     <title lang="en">Beat Bobby Flay (S35)</title>
     <desc lang="en">Pastry chef Duff Goldman and journalist Gayle King interrogate Bobby Flay. Chefs Brian Ingram and Dayana Joseph cook up a breakfast of champions.</desc>
   </programme>
-    <programme channel="GMA.Life.TV.us" start="20250219054500 -0500" stop="20250219063000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219054500 -0500" stop="20250219063000 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219063000 -0500" stop="20250219071500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219063000 -0500" stop="20250219071500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219071500 -0500" stop="20250219080000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219071500 -0500" stop="20250219080000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219080000 -0500" stop="20250219084500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219080000 -0500" stop="20250219084500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219084500 -0500" stop="20250219094500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219084500 -0500" stop="20250219094500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219094500 -0500" stop="20250219103000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219094500 -0500" stop="20250219103000 -0500">
     <title lang="en">Dami Mong Alam, Kuya Kim!</title>
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29306684_b_s3_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219103000 -0500" stop="20250219113000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219103000 -0500" stop="20250219113000 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219113000 -0500" stop="20250219121500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219113000 -0500" stop="20250219121500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219121500 -0500" stop="20250219130000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219121500 -0500" stop="20250219130000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219130000 -0500" stop="20250219134500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219130000 -0500" stop="20250219134500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219134500 -0500" stop="20250219154500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219134500 -0500" stop="20250219154500 -0500">
     <title lang="en">Reel Life</title>
     <desc lang="en">Daily movie block of GMA Life TV.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9131712_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219154500 -0500" stop="20250219163000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219154500 -0500" stop="20250219163000 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219163000 -0500" stop="20250219173000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219163000 -0500" stop="20250219173000 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219173000 -0500" stop="20250219181500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219173000 -0500" stop="20250219181500 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219181500 -0500" stop="20250219190000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219181500 -0500" stop="20250219190000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219190000 -0500" stop="20250219194500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219190000 -0500" stop="20250219194500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219194500 -0500" stop="20250219203000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219194500 -0500" stop="20250219203000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219203000 -0500" stop="20250219211500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219203000 -0500" stop="20250219211500 -0500">
     <title lang="en">The Final Pitch Philippines</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28081551_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219211500 -0500" stop="20250219221500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219211500 -0500" stop="20250219221500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219221500 -0500" stop="20250219230000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219221500 -0500" stop="20250219230000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219230000 -0500" stop="20250219234500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219230000 -0500" stop="20250219234500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250219234500 -0500" stop="20250220003000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250219234500 -0500" stop="20250220003000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220003000 -0500" stop="20250220011500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220003000 -0500" stop="20250220011500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220011500 -0500" stop="20250220021500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220011500 -0500" stop="20250220021500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220021500 -0500" stop="20250220030000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220021500 -0500" stop="20250220030000 -0500">
     <title lang="en">Dami Mong Alam, Kuya Kim!</title>
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29306684_b_s3_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220030000 -0500" stop="20250220050000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220030000 -0500" stop="20250220050000 -0500">
     <title lang="en">Reel Life</title>
     <desc lang="en">Daily movie block of GMA Life TV.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9131712_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220050000 -0500" stop="20250220054500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220050000 -0500" stop="20250220054500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220054500 -0500" stop="20250220054500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220054500 -0500" stop="20250220054500 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220054500 -0500" stop="20250220063000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220054500 -0500" stop="20250220063000 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220063000 -0500" stop="20250220071500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220063000 -0500" stop="20250220071500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220071500 -0500" stop="20250220080000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220071500 -0500" stop="20250220080000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220080000 -0500" stop="20250220084500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220080000 -0500" stop="20250220084500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220084500 -0500" stop="20250220094500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220084500 -0500" stop="20250220094500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220094500 -0500" stop="20250220103000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220094500 -0500" stop="20250220103000 -0500">
     <title lang="en">I Heart PH</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24447550_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220103000 -0500" stop="20250220113000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220103000 -0500" stop="20250220113000 -0500">
     <title lang="en">Dapat Alam Mo!</title>
     <desc lang="en">Hosts Patricia Tumulak, Kim Atienza and Susan Enriquez present the social, economic and political issues of the day and highlight the various concerns of the people.</desc>
     <category lang="en">Music</category>
     <category lang="en">News Magazine</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20677158_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220113000 -0500" stop="20250220121500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220113000 -0500" stop="20250220121500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220121500 -0500" stop="20250220130000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220121500 -0500" stop="20250220130000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220130000 -0500" stop="20250220134500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220130000 -0500" stop="20250220134500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220134500 -0500" stop="20250220154500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220134500 -0500" stop="20250220154500 -0500">
     <title lang="en">Reel Life</title>
     <desc lang="en">Daily movie block of GMA Life TV.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9131712_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220154500 -0500" stop="20250220163000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220154500 -0500" stop="20250220163000 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220163000 -0500" stop="20250220173000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220163000 -0500" stop="20250220173000 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220173000 -0500" stop="20250220183000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220173000 -0500" stop="20250220183000 -0500">
     <title lang="en">Dapat Alam Mo!</title>
     <desc lang="en">Hosts Patricia Tumulak, Kim Atienza and Susan Enriquez present the social, economic and political issues of the day and highlight the various concerns of the people.</desc>
     <category lang="en">Music</category>
     <category lang="en">News Magazine</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20677158_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220183000 -0500" stop="20250220190000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220183000 -0500" stop="20250220190000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220190000 -0500" stop="20250220194500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220190000 -0500" stop="20250220194500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220194500 -0500" stop="20250220203000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220194500 -0500" stop="20250220203000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220203000 -0500" stop="20250220211500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220203000 -0500" stop="20250220211500 -0500">
     <title lang="en">Farm To Table</title>
     <desc lang="en">Chef JR gives our viewers a peek into the fascinating process of food preparation -- from picking and harvesting fresh ingredients to cooking and plating a delicious dish.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26771611_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220211500 -0500" stop="20250220221500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220211500 -0500" stop="20250220221500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220221500 -0500" stop="20250220230000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220221500 -0500" stop="20250220230000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220230000 -0500" stop="20250220234500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220230000 -0500" stop="20250220234500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250220234500 -0500" stop="20250221003000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250220234500 -0500" stop="20250221003000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221003000 -0500" stop="20250221011500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221003000 -0500" stop="20250221011500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221011500 -0500" stop="20250221021500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221011500 -0500" stop="20250221021500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221021500 -0500" stop="20250221030000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221021500 -0500" stop="20250221030000 -0500">
     <title lang="en">Weekend Getaway</title>
     <desc lang="en">Adventure seekers go on weekend trips. Hosted by Drew Arellano.</desc>
     <credits>
@@ -11104,152 +11104,152 @@
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13334973_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221030000 -0500" stop="20250221050000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221030000 -0500" stop="20250221050000 -0500">
     <title lang="en">Reel Life</title>
     <desc lang="en">Daily movie block of GMA Life TV.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9131712_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221050000 -0500" stop="20250221054500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221050000 -0500" stop="20250221054500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221054500 -0500" stop="20250221054500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221054500 -0500" stop="20250221054500 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221054500 -0500" stop="20250221063000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221054500 -0500" stop="20250221063000 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221063000 -0500" stop="20250221071500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221063000 -0500" stop="20250221071500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221071500 -0500" stop="20250221080000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221071500 -0500" stop="20250221080000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221080000 -0500" stop="20250221084500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221080000 -0500" stop="20250221084500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221084500 -0500" stop="20250221094500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221084500 -0500" stop="20250221094500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221094500 -0500" stop="20250221103000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221094500 -0500" stop="20250221103000 -0500">
     <title lang="en">Regal Studio Presents</title>
     <desc lang="en">A collection of stories which showcase different romantic and uplifting moments featuring renowned young actors in the Philippines.</desc>
     <category lang="en">Variety</category>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20627212_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221103000 -0500" stop="20250221113000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221103000 -0500" stop="20250221113000 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221113000 -0500" stop="20250221121500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221113000 -0500" stop="20250221121500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221121500 -0500" stop="20250221130000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221121500 -0500" stop="20250221130000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221130000 -0500" stop="20250221134500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221130000 -0500" stop="20250221134500 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221134500 -0500" stop="20250221154500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221134500 -0500" stop="20250221154500 -0500">
     <title lang="en">Reel Life</title>
     <desc lang="en">Daily movie block of GMA Life TV.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9131712_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221154500 -0500" stop="20250221163000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221154500 -0500" stop="20250221163000 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221163000 -0500" stop="20250221173000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221163000 -0500" stop="20250221173000 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221173000 -0500" stop="20250221181500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221173000 -0500" stop="20250221181500 -0500">
     <title lang="en">Lutong Bahay</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28340000_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221181500 -0500" stop="20250221190000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221181500 -0500" stop="20250221190000 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221190000 -0500" stop="20250221194500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221190000 -0500" stop="20250221194500 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221194500 -0500" stop="20250221203000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221194500 -0500" stop="20250221203000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221203000 -0500" stop="20250221211500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221203000 -0500" stop="20250221211500 -0500">
     <title lang="en">Home Base Plus</title>
     <desc lang="en">Presents a detailed guide on building, buying and maintaining houses, including their interior and exterior designs, for Filipino families.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14786302_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221211500 -0500" stop="20250221221500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221211500 -0500" stop="20250221221500 -0500">
     <title lang="en">Balitanghali</title>
     <desc lang="en">Features stories and interviews from the day&apos;s newsmakers.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p583998_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221221500 -0500" stop="20250221230000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221221500 -0500" stop="20250221230000 -0500">
     <title lang="en">Idol Sa Kusina</title>
     <desc lang="en">Chefs cook various dishes.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8877726_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221230000 -0500" stop="20250221234500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221230000 -0500" stop="20250221234500 -0500">
     <title lang="en">Mars Pa More!</title>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17059061_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250221234500 -0500" stop="20250222003000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250221234500 -0500" stop="20250222003000 -0500">
     <title lang="en">Day Off</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p645199_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222003000 -0500" stop="20250222011500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222003000 -0500" stop="20250222011500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222011500 -0500" stop="20250222021500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222011500 -0500" stop="20250222021500 -0500">
     <title lang="en">Weekend Getaway</title>
     <desc lang="en">Adventure seekers go on weekend trips. Hosted by Drew Arellano.</desc>
     <credits>
@@ -11258,7 +11258,7 @@
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13334973_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222021500 -0500" stop="20250222024500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222021500 -0500" stop="20250222024500 -0500">
     <title lang="en">The Good Life</title>
     <desc lang="en">Renowned business owners discuss how they achieved their success and overcome obstacles by sharing their inspirational stories and point of view.</desc>
     <credits>
@@ -11267,20 +11267,20 @@
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23846619_b_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222024500 -0500" stop="20250222031500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222024500 -0500" stop="20250222031500 -0500">
     <title lang="en">Sarap, &apos;Di Ba?</title>
     <desc lang="en">Cooking talk show.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16300280_b_v8_ad.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222031500 -0500" stop="20250222044500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222031500 -0500" stop="20250222044500 -0500">
     <title lang="en">Telesine</title>
     <desc lang="en">A weekly drama presenting various stories that were made for television.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26771435_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222044500 -0500" stop="20250222044500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222044500 -0500" stop="20250222044500 -0500">
     <title lang="en">Habangbuhay</title>
     <credits>
       <actor>Yayo Aguila</actor>
@@ -11291,7 +11291,7 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28606803_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222044500 -0500" stop="20250222064500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222044500 -0500" stop="20250222064500 -0500">
     <title lang="en">Habangbuhay</title>
     <credits>
       <actor>Yayo Aguila</actor>
@@ -11302,7 +11302,7 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28606803_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222064500 -0500" stop="20250222074500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222064500 -0500" stop="20250222074500 -0500">
     <title lang="en">Weekend Getaway</title>
     <desc lang="en">Adventure seekers go on weekend trips. Hosted by Drew Arellano.</desc>
     <credits>
@@ -11311,25 +11311,25 @@
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13334973_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222074500 -0500" stop="20250222083000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222074500 -0500" stop="20250222083000 -0500">
     <title lang="en">Biyahe Ni Drew</title>
     <desc lang="en">Finding ways to explore the Philippines on a budget.</desc>
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11096525_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222083000 -0500" stop="20250222090000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222083000 -0500" stop="20250222090000 -0500">
     <title lang="en">Turbo Zone</title>
     <desc lang="en">The host talks about motoring from the point of view of vehicle owners and provides tips and tricks on buying and maintaining cars with the help of experts.</desc>
     <category lang="en">Local</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9186644_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222090000 -0500" stop="20250222093000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222090000 -0500" stop="20250222093000 -0500">
     <title lang="en">Tunay Na Buhay</title>
     <desc lang="en">Inspiring real-life stories display hope, courage and determination.</desc>
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8513010_b_s4_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222093000 -0500" stop="20250222101500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222093000 -0500" stop="20250222101500 -0500">
     <title lang="en">Karelasyon</title>
     <desc lang="en">A true-to-life family drama featuring the Kapuso stars.</desc>
     <credits>
@@ -11338,14 +11338,14 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11607966_b_s3_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222101500 -0500" stop="20250222110000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222101500 -0500" stop="20250222110000 -0500">
     <title lang="en">Sarap, &apos;Di Ba?</title>
     <desc lang="en">Cooking talk show.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16300280_b_v8_ad.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222110000 -0500" stop="20250222130000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222110000 -0500" stop="20250222130000 -0500">
     <title lang="en">Habangbuhay</title>
     <credits>
       <actor>Yayo Aguila</actor>
@@ -11356,44 +11356,44 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28606803_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222130000 -0500" stop="20250222154500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222130000 -0500" stop="20250222154500 -0500">
     <title lang="en">Toda One I Love</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16475647_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222154500 -0500" stop="20250222163000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222154500 -0500" stop="20250222163000 -0500">
     <title lang="en">Biyahe Ni Drew</title>
     <desc lang="en">Finding ways to explore the Philippines on a budget.</desc>
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11096525_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222163000 -0500" stop="20250222170000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222163000 -0500" stop="20250222170000 -0500">
     <title lang="en">I-Bilib</title>
     <desc lang="en">Scientific experiments; exploring scientific facts and theories surrounding everyday events.</desc>
     <category lang="en">Reality TV</category>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11096517_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222170000 -0500" stop="20250222173000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222170000 -0500" stop="20250222173000 -0500">
     <title lang="en">Dami Mong Alam, Kuya Kim!</title>
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29306684_b_s3_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222173000 -0500" stop="20250222180000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222173000 -0500" stop="20250222180000 -0500">
     <title lang="en">Aha!</title>
     <desc lang="en">The host explores and learns about the science behind ordinary, everyday things through demonstrations and discussions with experts.</desc>
     <category lang="en">Performing Arts</category>
     <category lang="en">Science</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8077657_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222180000 -0500" stop="20250222184500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222180000 -0500" stop="20250222184500 -0500">
     <title lang="en">Sarap, &apos;Di Ba?</title>
     <desc lang="en">Cooking talk show.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16300280_b_v8_ad.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222184500 -0500" stop="20250222191500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222184500 -0500" stop="20250222191500 -0500">
     <title lang="en">Taste Buddies</title>
     <desc lang="en">Solenn and Rhian treat viewers to a wide array of taste for food, fashion, trends, and places.</desc>
     <credits>
@@ -11404,25 +11404,25 @@
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13462092_i_s2_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222191500 -0500" stop="20250222194500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222191500 -0500" stop="20250222194500 -0500">
     <title lang="en">Home Base Plus</title>
     <desc lang="en">Presents a detailed guide on building, buying and maintaining houses, including their interior and exterior designs, for Filipino families.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14786302_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222194500 -0500" stop="20250222203000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222194500 -0500" stop="20250222203000 -0500">
     <title lang="en">I Juander</title>
     <desc lang="en">Veteran journalists Susan Enriquez and Cesar Apolinario uncover the truth behind the general customs, traditions and beliefs of Filipinos.</desc>
     <category lang="en">Documentary</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9260856_b_s2_aj.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222203000 -0500" stop="20250222210000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222203000 -0500" stop="20250222210000 -0500">
     <title lang="en">I Heart PH</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24447550_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222210000 -0500" stop="20250222213000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222210000 -0500" stop="20250222213000 -0500">
     <title lang="en">The Good Life</title>
     <desc lang="en">Renowned business owners discuss how they achieved their success and overcome obstacles by sharing their inspirational stories and point of view.</desc>
     <credits>
@@ -11431,19 +11431,19 @@
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23846619_b_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222213000 -0500" stop="20250222220000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222213000 -0500" stop="20250222220000 -0500">
     <title lang="en">Tunay Na Buhay</title>
     <desc lang="en">Inspiring real-life stories display hope, courage and determination.</desc>
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8513010_b_s4_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222220000 -0500" stop="20250222223000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222220000 -0500" stop="20250222223000 -0500">
     <title lang="en">Telesine</title>
     <desc lang="en">A weekly drama presenting various stories that were made for television.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26771435_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250222223000 -0500" stop="20250223013000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250222223000 -0500" stop="20250223013000 -0500">
     <title lang="en">Habangbuhay</title>
     <credits>
       <actor>Yayo Aguila</actor>
@@ -11454,26 +11454,26 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28606803_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250223013000 -0500" stop="20250223023000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250223013000 -0500" stop="20250223023000 -0500">
     <title lang="en">Pinoy M.D.</title>
     <desc lang="en">The hosts provide important information and shed light on different illnesses, diseases, and medical concerns.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8152834_b_v8_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250223023000 -0500" stop="20250223031500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250223023000 -0500" stop="20250223031500 -0500">
     <title lang="en">I Juander</title>
     <desc lang="en">Veteran journalists Susan Enriquez and Cesar Apolinario uncover the truth behind the general customs, traditions and beliefs of Filipinos.</desc>
     <category lang="en">Documentary</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9260856_b_s2_aj.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250223031500 -0500" stop="20250223040000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250223031500 -0500" stop="20250223040000 -0500">
     <title lang="en">Biyahe Ni Drew</title>
     <desc lang="en">Finding ways to explore the Philippines on a budget.</desc>
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11096525_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250223040000 -0500" stop="20250223050000 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250223040000 -0500" stop="20250223050000 -0500">
     <title lang="en">Weekend Getaway</title>
     <desc lang="en">Adventure seekers go on weekend trips. Hosted by Drew Arellano.</desc>
     <credits>
@@ -11482,7 +11482,7 @@
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13334973_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="GMA.Life.TV.us" start="20250223050000 -0500" stop="20250223054500 -0500">
+  <programme channel="GMA.Life.TV.ca" start="20250223050000 -0500" stop="20250223054500 -0500">
     <title lang="en">Regal Studio Presents</title>
     <desc lang="en">A collection of stories which showcase different romantic and uplifting moments featuring renowned young actors in the Philippines.</desc>
     <category lang="en">Variety</category>
@@ -27378,18 +27378,18 @@
     <title lang="en">MMK</title>
     <desc lang="en">MMK.</desc>
   </programme>
-    <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219054500 -0500" stop="20250219063000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219054500 -0500" stop="20250219063000 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219063000 -0500" stop="20250219080000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219063000 -0500" stop="20250219080000 -0500">
     <title lang="en">TV Patrol Live</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9295109_b_s2_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219080000 -0500" stop="20250219084500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219080000 -0500" stop="20250219084500 -0500">
     <title lang="en">FPJ&apos;s Batang Quiapo</title>
     <desc lang="en">A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
     <credits>
@@ -27400,18 +27400,18 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24021981_i_h10_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219084500 -0500" stop="20250219093000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219084500 -0500" stop="20250219093000 -0500">
     <title lang="en">Incognito</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29239906_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219093000 -0500" stop="20250219101500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219093000 -0500" stop="20250219101500 -0500">
     <title lang="en">How To Spot A Red Flag</title>
     <desc lang="en">A woman finds herself torn between two completely opposite men despite their red flags in her quest for true love.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29296046_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219101500 -0500" stop="20250219121500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219101500 -0500" stop="20250219121500 -0500">
     <title lang="en">It&apos;s Showtime</title>
     <desc lang="en">Pinoys strut and display their unique talents for the world.</desc>
     <category lang="en">Game Shows</category>
@@ -27421,22 +27421,22 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219121500 -0500" stop="20250219124500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219121500 -0500" stop="20250219124500 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219124500 -0500" stop="20250219133000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219124500 -0500" stop="20250219133000 -0500">
     <title lang="en">Oh my G</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11422357_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219133000 -0500" stop="20250219140000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219133000 -0500" stop="20250219140000 -0500">
     <title lang="en">Playhouse</title>
     <category lang="en">Regular</category>
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219140000 -0500" stop="20250219160000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219140000 -0500" stop="20250219160000 -0500">
     <title lang="en">Sa Aking mga Kamay</title>
     <desc lang="en">A serial killer preying on unfaithful wives sets his eyes on an investigator&apos;s wife.</desc>
     <credits>
@@ -27448,41 +27448,41 @@
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219160000 -0500" stop="20250219173000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219160000 -0500" stop="20250219173000 -0500">
     <title lang="en">TV Patrol Global Edition</title>
     <desc lang="en">ABS-CBN&apos;s flagship newscast and the country&apos;s leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13267112_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219173000 -0500" stop="20250219180000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219173000 -0500" stop="20250219180000 -0500">
     <title lang="en">Kapamilya Daily Mass</title>
     <desc lang="en">The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
     <category lang="en">Local</category>
     <category lang="en">Religious</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18096002_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219180000 -0500" stop="20250219190000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219180000 -0500" stop="20250219190000 -0500">
     <title lang="en">Gising Pilipinas</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25119709_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219190000 -0500" stop="20250219193000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219190000 -0500" stop="20250219193000 -0500">
     <title lang="en">Teleradyo Serbisyo Balita</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25146151_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219193000 -0500" stop="20250219200000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219193000 -0500" stop="20250219200000 -0500">
     <title lang="en">Gising Pilipinas</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25119709_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219200000 -0500" stop="20250219210000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219200000 -0500" stop="20250219210000 -0500">
     <title lang="en">Kabayan</title>
     <desc lang="en">Host Noli De Castro tackles current social issues in the country by providing commentary and conducting interviews with different personalities.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18114667_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219210000 -0500" stop="20250219220000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219210000 -0500" stop="20250219220000 -0500">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">A lifestyle-morning talk show hosted by Karla Estrada, Jolina Magdangal and Melai Cantiveros.</desc>
     <credits>
@@ -27496,26 +27496,26 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219220000 -0500" stop="20250219223000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219220000 -0500" stop="20250219223000 -0500">
     <title lang="en">Playhouse</title>
     <category lang="en">Regular</category>
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219223000 -0500" stop="20250219230000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219223000 -0500" stop="20250219230000 -0500">
     <title lang="en">Lorenzo&apos;s Time</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9331195_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219230000 -0500" stop="20250219233000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219230000 -0500" stop="20250219233000 -0500">
     <title lang="en">Oh my G</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11422357_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250219233000 -0500" stop="20250220000000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250219233000 -0500" stop="20250220000000 -0500">
     <title lang="en">BRGY</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19779319_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220000000 -0500" stop="20250220023000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220000000 -0500" stop="20250220023000 -0500">
     <title lang="en">It&apos;s Showtime</title>
     <desc lang="en">Pinoys strut and display their unique talents for the world.</desc>
     <category lang="en">Game Shows</category>
@@ -27525,17 +27525,17 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220023000 -0500" stop="20250220030000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220023000 -0500" stop="20250220030000 -0500">
     <title lang="en">TFC Kids&apos; Zone</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26938855_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220030000 -0500" stop="20250220033000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220030000 -0500" stop="20250220033000 -0500">
     <title lang="en">Incognito</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29239906_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220033000 -0500" stop="20250220040000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220033000 -0500" stop="20250220040000 -0500">
     <title lang="en">FPJ&apos;s Batang Quiapo</title>
     <desc lang="en">A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
     <credits>
@@ -27546,46 +27546,46 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24021981_i_h10_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220040000 -0500" stop="20250220043000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220040000 -0500" stop="20250220043000 -0500">
     <title lang="en">How To Spot A Red Flag</title>
     <desc lang="en">A woman finds herself torn between two completely opposite men despite their red flags in her quest for true love.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29296046_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220043000 -0500" stop="20250220050000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220043000 -0500" stop="20250220050000 -0500">
     <title lang="en">Lorenzo&apos;s Time</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9331195_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220050000 -0500" stop="20250220053000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220050000 -0500" stop="20250220053000 -0500">
     <title lang="en">BRGY</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19779319_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220053000 -0500" stop="20250220054500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220053000 -0500" stop="20250220054500 -0500">
     <title lang="en">TV Patrol Express</title>
     <desc lang="en">The anchors deliver the latest news and updates happening across the Philippines.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27716682_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220054500 -0500" stop="20250220054500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220054500 -0500" stop="20250220054500 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220054500 -0500" stop="20250220063000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220054500 -0500" stop="20250220063000 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220063000 -0500" stop="20250220080000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220063000 -0500" stop="20250220080000 -0500">
     <title lang="en">TV Patrol Live</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9295109_b_s2_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220080000 -0500" stop="20250220084500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220080000 -0500" stop="20250220084500 -0500">
     <title lang="en">FPJ&apos;s Batang Quiapo</title>
     <desc lang="en">A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
     <credits>
@@ -27596,18 +27596,18 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24021981_i_h10_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220084500 -0500" stop="20250220093000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220084500 -0500" stop="20250220093000 -0500">
     <title lang="en">Incognito</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29239906_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220093000 -0500" stop="20250220101500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220093000 -0500" stop="20250220101500 -0500">
     <title lang="en">How To Spot A Red Flag</title>
     <desc lang="en">A woman finds herself torn between two completely opposite men despite their red flags in her quest for true love.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29296046_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220101500 -0500" stop="20250220121500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220101500 -0500" stop="20250220121500 -0500">
     <title lang="en">It&apos;s Showtime</title>
     <desc lang="en">Pinoys strut and display their unique talents for the world.</desc>
     <category lang="en">Game Shows</category>
@@ -27617,22 +27617,22 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220121500 -0500" stop="20250220124500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220121500 -0500" stop="20250220124500 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220124500 -0500" stop="20250220133000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220124500 -0500" stop="20250220133000 -0500">
     <title lang="en">Oh my G</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11422357_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220133000 -0500" stop="20250220140000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220133000 -0500" stop="20250220140000 -0500">
     <title lang="en">Playhouse</title>
     <category lang="en">Regular</category>
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220140000 -0500" stop="20250220160000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220140000 -0500" stop="20250220160000 -0500">
     <title lang="en">Lily</title>
     <desc lang="en">Stories abound in Cebu about a woman rumored to be a murderous monster, but behind the myth is a mother seeking justice.</desc>
     <credits>
@@ -27645,41 +27645,41 @@
     <category lang="en">Horror</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22895454_p_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220160000 -0500" stop="20250220173000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220160000 -0500" stop="20250220173000 -0500">
     <title lang="en">TV Patrol Global Edition</title>
     <desc lang="en">ABS-CBN&apos;s flagship newscast and the country&apos;s leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13267112_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220173000 -0500" stop="20250220180000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220173000 -0500" stop="20250220180000 -0500">
     <title lang="en">Kapamilya Daily Mass</title>
     <desc lang="en">The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
     <category lang="en">Local</category>
     <category lang="en">Religious</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18096002_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220180000 -0500" stop="20250220190000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220180000 -0500" stop="20250220190000 -0500">
     <title lang="en">Gising Pilipinas</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25119709_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220190000 -0500" stop="20250220193000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220190000 -0500" stop="20250220193000 -0500">
     <title lang="en">Teleradyo Serbisyo Balita</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25146151_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220193000 -0500" stop="20250220200000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220193000 -0500" stop="20250220200000 -0500">
     <title lang="en">Gising Pilipinas</title>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25119709_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220200000 -0500" stop="20250220210000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220200000 -0500" stop="20250220210000 -0500">
     <title lang="en">Kabayan</title>
     <desc lang="en">Host Noli De Castro tackles current social issues in the country by providing commentary and conducting interviews with different personalities.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18114667_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220210000 -0500" stop="20250220220000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220210000 -0500" stop="20250220220000 -0500">
     <title lang="en">Magandang Buhay</title>
     <desc lang="en">A lifestyle-morning talk show hosted by Karla Estrada, Jolina Magdangal and Melai Cantiveros.</desc>
     <credits>
@@ -27693,26 +27693,26 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220220000 -0500" stop="20250220223000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220220000 -0500" stop="20250220223000 -0500">
     <title lang="en">Playhouse</title>
     <category lang="en">Regular</category>
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220223000 -0500" stop="20250220230000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220223000 -0500" stop="20250220230000 -0500">
     <title lang="en">Lorenzo&apos;s Time</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9331195_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220230000 -0500" stop="20250220233000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220230000 -0500" stop="20250220233000 -0500">
     <title lang="en">Oh my G</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11422357_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250220233000 -0500" stop="20250221000000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250220233000 -0500" stop="20250221000000 -0500">
     <title lang="en">BRGY</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19779319_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221000000 -0500" stop="20250221023000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221000000 -0500" stop="20250221023000 -0500">
     <title lang="en">It&apos;s Showtime</title>
     <desc lang="en">Pinoys strut and display their unique talents for the world.</desc>
     <category lang="en">Game Shows</category>
@@ -27722,17 +27722,17 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221023000 -0500" stop="20250221030000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221023000 -0500" stop="20250221030000 -0500">
     <title lang="en">TFC Kids&apos; Zone</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26938855_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221030000 -0500" stop="20250221033000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221030000 -0500" stop="20250221033000 -0500">
     <title lang="en">Incognito</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29239906_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221033000 -0500" stop="20250221040000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221033000 -0500" stop="20250221040000 -0500">
     <title lang="en">FPJ&apos;s Batang Quiapo</title>
     <desc lang="en">A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
     <credits>
@@ -27743,46 +27743,46 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24021981_i_h10_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221040000 -0500" stop="20250221043000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221040000 -0500" stop="20250221043000 -0500">
     <title lang="en">How To Spot A Red Flag</title>
     <desc lang="en">A woman finds herself torn between two completely opposite men despite their red flags in her quest for true love.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29296046_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221043000 -0500" stop="20250221050000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221043000 -0500" stop="20250221050000 -0500">
     <title lang="en">Lorenzo&apos;s Time</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9331195_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221050000 -0500" stop="20250221053000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221050000 -0500" stop="20250221053000 -0500">
     <title lang="en">BRGY</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19779319_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221053000 -0500" stop="20250221054500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221053000 -0500" stop="20250221054500 -0500">
     <title lang="en">TV Patrol Express</title>
     <desc lang="en">The anchors deliver the latest news and updates happening across the Philippines.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27716682_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221054500 -0500" stop="20250221054500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221054500 -0500" stop="20250221054500 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221054500 -0500" stop="20250221063000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221054500 -0500" stop="20250221063000 -0500">
     <title lang="en">Kapamilya Deal or No Deal</title>
     <desc lang="en">The contestants receive a set of briefcases with randomly assigned amounts of prize money and rely on their luck and wits to win the biggest prize.</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p252644_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221063000 -0500" stop="20250221080000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221063000 -0500" stop="20250221080000 -0500">
     <title lang="en">TV Patrol Live</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9295109_b_s2_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221080000 -0500" stop="20250221084500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221080000 -0500" stop="20250221084500 -0500">
     <title lang="en">FPJ&apos;s Batang Quiapo</title>
     <desc lang="en">A young man named Tanggol rises to be one of the most notorious outlaws in Quiapo, Manila. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.</desc>
     <credits>
@@ -27793,18 +27793,18 @@
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24021981_i_h10_ac.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221084500 -0500" stop="20250221093000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221084500 -0500" stop="20250221093000 -0500">
     <title lang="en">Incognito</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29239906_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221093000 -0500" stop="20250221102500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221093000 -0500" stop="20250221102500 -0500">
     <title lang="en">How To Spot A Red Flag</title>
     <desc lang="en">A woman finds herself torn between two completely opposite men despite their red flags in her quest for true love.</desc>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29296046_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221102500 -0500" stop="20250221105500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221102500 -0500" stop="20250221105500 -0500">
     <title lang="en">Ikaw Lang Ang Iibigin</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14085197_b_s2_aa.jpg" />
@@ -27812,7 +27812,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221105500 -0500" stop="20250221112000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221105500 -0500" stop="20250221112000 -0500">
     <title lang="en">Wildflower</title>
     <desc lang="en">An heiress seeks justice for her father&apos;s death and her mother&apos;s assault by exacting revenge against the evil and powerful Ardiente family.</desc>
     <credits>
@@ -27827,19 +27827,19 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221112000 -0500" stop="20250221114000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221112000 -0500" stop="20250221114000 -0500">
     <title lang="en">Tonight with Boy Abunda</title>
     <desc lang="en">The King of Philippine Talk dish out a fast-paced discussion on the day&apos;s hottest topics.</desc>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12190199_i_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221114000 -0500" stop="20250221121500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221114000 -0500" stop="20250221121500 -0500">
     <title lang="en">Bandila</title>
     <desc lang="en">A latenight round-up of the day&apos;s news in and outside of the country.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p584486_b_h10_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221121500 -0500" stop="20250221124500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221121500 -0500" stop="20250221124500 -0500">
     <title lang="en">Red Alert</title>
     <desc lang="en">Red Alert equips you with the knowledge and skills needed to survive and protect your loved ones from the dangers and calamities that plague the country.</desc>
     <category lang="en">Political</category>
@@ -27848,7 +27848,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221124500 -0500" stop="20250221150000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221124500 -0500" stop="20250221150000 -0500">
     <title lang="en">It&apos;s Showtime</title>
     <desc lang="en">Pinoys strut and display their unique talents for the world.</desc>
     <category lang="en">Game Shows</category>
@@ -27858,26 +27858,26 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221150000 -0500" stop="20250221160000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221150000 -0500" stop="20250221160000 -0500">
     <title lang="en">Rated Korina</title>
     <desc lang="en">Host Korina Sanchez delivers a variety of exciting and relevant stories and invites special guests to engage in discussion.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20027557_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221160000 -0500" stop="20250221173000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221160000 -0500" stop="20250221173000 -0500">
     <title lang="en">TV Patrol Global Edition</title>
     <desc lang="en">ABS-CBN&apos;s flagship newscast and the country&apos;s leading news program in the past two decades, anchored by the most celebrated news team ever assembled in the history of Philippine broadcasting.</desc>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13267112_b_v8_ab.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221173000 -0500" stop="20250221180000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221173000 -0500" stop="20250221180000 -0500">
     <title lang="en">Kapamilya Daily Mass</title>
     <desc lang="en">The priest delivers messages from the Bible as he celebrates the Holy Eucharist with devoted Catholics from across the country.</desc>
     <category lang="en">Local</category>
     <category lang="en">Religious</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18096002_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221180000 -0500" stop="20250221183000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221180000 -0500" stop="20250221183000 -0500">
     <title lang="en">The Good Home</title>
     <desc lang="en">Natural cleaning products.</desc>
     <category lang="en">Shopping</category>
@@ -27886,222 +27886,222 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221183000 -0500" stop="20250221190000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221183000 -0500" stop="20250221190000 -0500">
     <title lang="en">Happy Place</title>
     <desc lang="en">Happy Ongpauco-Tiu sheds light on her personal and professional life while sharing some of her family&apos;s delectable recipes.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p398514_b_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221190000 -0500" stop="20250221193000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221190000 -0500" stop="20250221193000 -0500">
     <title lang="en">Curiousity Got The Chef</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21170597_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221193000 -0500" stop="20250221200000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221193000 -0500" stop="20250221200000 -0500">
     <title lang="en">Seenzone</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19779351_b_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221200000 -0500" stop="20250221203000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221200000 -0500" stop="20250221203000 -0500">
     <title lang="en">The Good Fit</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20874875_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221203000 -0500" stop="20250221210000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221203000 -0500" stop="20250221210000 -0500">
     <title lang="en">Team FitFil</title>
     <desc lang="en">Fitness coaches Jim and Toni Saret demonstrate a variety of easy to follow cardiovascular and muscular exercises that help strengthen the body and build a healthy heart.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19476185_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221210000 -0500" stop="20250221220000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221210000 -0500" stop="20250221220000 -0500">
     <title lang="en">Tulong Ko Pasa Mo</title>
     <desc lang="en">An advocacy radio program providing help, helping others and paying it forward; hosted by bestselling authors and motivational speakers, Vic and Avelynn Garcia.</desc>
     <category lang="en">Local</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13339933_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221220000 -0500" stop="20250221230000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221220000 -0500" stop="20250221230000 -0500">
     <title lang="en">Food Prints</title>
     <desc lang="en">Host Sandy Daza travels around the world to discover authentic cuisines and experiments with a variety of ingredients and flavors.</desc>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10426394_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250221230000 -0500" stop="20250222000000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250221230000 -0500" stop="20250222000000 -0500">
     <title lang="en">The Best Talk With Boy Abunda</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21170586_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222000000 -0500" stop="20250222033000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222000000 -0500" stop="20250222033000 -0500">
     <title lang="en">It&apos;s Showtime Saturday LIVE</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21170611_b_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222033000 -0500" stop="20250222041500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222033000 -0500" stop="20250222041500 -0500">
     <title lang="en">Be Careful with my Heart Rewind</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9990586_i_h11_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222041500 -0500" stop="20250222043000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222041500 -0500" stop="20250222043000 -0500">
     <title lang="en">PBB Updates</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19320595_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222043000 -0500" stop="20250222050000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222043000 -0500" stop="20250222050000 -0500">
     <title lang="en">thatguyslater</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19935970_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222050000 -0500" stop="20250222053000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222050000 -0500" stop="20250222053000 -0500">
     <title lang="en">The Fat Kid Inside</title>
     <category lang="en">News Magazine</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19471270_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222053000 -0500" stop="20250222060000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222053000 -0500" stop="20250222060000 -0500">
     <title lang="en">Happy Place</title>
     <desc lang="en">Happy Ongpauco-Tiu sheds light on her personal and professional life while sharing some of her family&apos;s delectable recipes.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p398514_b_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222060000 -0500" stop="20250222070000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222060000 -0500" stop="20250222070000 -0500">
     <title lang="en">TV Patrol Sabado</title>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13267132_b_s1_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222070000 -0500" stop="20250222083000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222070000 -0500" stop="20250222083000 -0500">
     <title lang="en">PBB Kumunity</title>
     <category lang="en">Reality TV</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20842743_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222083000 -0500" stop="20250222093000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222083000 -0500" stop="20250222093000 -0500">
     <title lang="en">Maalaala Mo Kaya</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18166995_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222093000 -0500" stop="20250222103000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222093000 -0500" stop="20250222103000 -0500">
     <title lang="en">Oh MY Dad</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20161226_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222103000 -0500" stop="20250222113000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222103000 -0500" stop="20250222113000 -0500">
     <title lang="en">Rated Korina</title>
     <desc lang="en">Host Korina Sanchez delivers a variety of exciting and relevant stories and invites special guests to engage in discussion.</desc>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20027557_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222113000 -0500" stop="20250222133000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222113000 -0500" stop="20250222133000 -0500">
     <title lang="en">Wedding Tayo Wedding Hindi</title>
     <category lang="en">Local</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10467563_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222133000 -0500" stop="20250222143000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222133000 -0500" stop="20250222143000 -0500">
     <title lang="en">Maalaala Mo Kaya</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18166995_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222143000 -0500" stop="20250222153000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222143000 -0500" stop="20250222153000 -0500">
     <title lang="en">Oh MY Dad</title>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20161226_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222153000 -0500" stop="20250222160000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222153000 -0500" stop="20250222160000 -0500">
     <title lang="en">Bawal Mastress Drilon</title>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19420621_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222160000 -0500" stop="20250222163000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222160000 -0500" stop="20250222163000 -0500">
     <title lang="en">Karerin Natin Yan</title>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19421211_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222163000 -0500" stop="20250222170000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222163000 -0500" stop="20250222170000 -0500">
     <title lang="en">Citizen Pinoy</title>
     <desc lang="en">The hosts discuss the frequently asked questions during US migration. They also highlight the topics relevant to Filipinos in the US and the Philippines.</desc>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p625101_st_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222170000 -0500" stop="20250222173000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222170000 -0500" stop="20250222173000 -0500">
     <title lang="en">thatguyslater</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19935970_b_v12_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222173000 -0500" stop="20250222180000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222173000 -0500" stop="20250222180000 -0500">
     <title lang="en">Kapamilya Journeys of Hope with Fr. Tito Caluag</title>
     <category lang="en">Religious</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18239135_i_h8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222180000 -0500" stop="20250222190000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222180000 -0500" stop="20250222190000 -0500">
     <title lang="en">The Healing Eucharist</title>
     <desc lang="en">A weekly TV Mass broadcasted from the ABS-CBN Studios.</desc>
     <category lang="en">Religious</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p299568_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222190000 -0500" stop="20250222193000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222190000 -0500" stop="20250222193000 -0500">
     <title lang="en">Bro. Eddie Classics</title>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19183987_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222193000 -0500" stop="20250222200000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222193000 -0500" stop="20250222200000 -0500">
     <title lang="en">G Diaries</title>
     <desc lang="en">Filipino environmentalist Gina Lopez journeys all over the Philippines to promote ecotourism while showcasing popular destinations that are adapting a more environmentally friendly approach.</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20050136_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222200000 -0500" stop="20250222203000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222200000 -0500" stop="20250222203000 -0500">
     <title lang="en">The Good Fit</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20874875_i_s4_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222203000 -0500" stop="20250222210000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222203000 -0500" stop="20250222210000 -0500">
     <title lang="en">The Fat Kid Inside</title>
     <category lang="en">News Magazine</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19471270_b_v8_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222210000 -0500" stop="20250222220000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222210000 -0500" stop="20250222220000 -0500">
     <title lang="en">Pamilya Talk With Tita Jing</title>
     <desc lang="en">Jing Castañeda invites renowned personalities from different fields and discusses various topics related to family and business.</desc>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21080534_b_h11_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222220000 -0500" stop="20250222230000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222220000 -0500" stop="20250222230000 -0500">
     <title lang="en">Metro Chats</title>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19471234_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250222230000 -0500" stop="20250223000000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250222230000 -0500" stop="20250223000000 -0500">
     <title lang="en">Call Me Maybi</title>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20637685_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223000000 -0500" stop="20250223020000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223000000 -0500" stop="20250223020000 -0500">
     <title lang="en">ASAP Natin To</title>
     <desc lang="en">Renowned Filipino artists enthrall the audience with a series of musical performances and heartwarming catch-up content.</desc>
     <category lang="en">Performing Arts</category>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18179107_i_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223020000 -0500" stop="20250223033000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223020000 -0500" stop="20250223033000 -0500">
     <title lang="en">Nang Ngumiti Ang Langit Fast Cut</title>
     <category lang="en">Variety</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21170647_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223033000 -0500" stop="20250223040000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223033000 -0500" stop="20250223040000 -0500">
     <title lang="en">Chef Rv&apos;s Kitchen</title>
     <category lang="en">Food</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20090962_b_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223040000 -0500" stop="20250223044500 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223040000 -0500" stop="20250223044500 -0500">
     <title lang="en">Tulong Ko Pasa Mo</title>
     <desc lang="en">An advocacy radio program providing help, helping others and paying it forward; hosted by bestselling authors and motivational speakers, Vic and Avelynn Garcia.</desc>
     <category lang="en">Local</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13339933_b_s2_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223044500 -0500" stop="20250223050000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223044500 -0500" stop="20250223050000 -0500">
     <title lang="en">PBB Updates</title>
     <category lang="en">Regular</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19320595_st_h10_aa.jpg" />
     <previously-shown /></programme>
-  <programme channel="TFC.-.The.Filipino.Channel.us" start="20250223050000 -0500" stop="20250223053000 -0500">
+  <programme channel="TFC.-.The.Filipino.Channel.ca" start="20250223050000 -0500" stop="20250223053000 -0500">
     <title lang="en">G Diaries</title>
     <desc lang="en">Filipino environmentalist Gina Lopez journeys all over the Philippines to promote ecotourism while showcasing popular destinations that are adapting a more environmentally friendly approach.</desc>
     <category lang="en">News Magazine</category>
