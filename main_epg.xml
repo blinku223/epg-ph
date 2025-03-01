@@ -47,9 +47,9 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
 
-    <channel id="Cartoonito.(HD).sg">
-    <display-name lang="en">Cartoonito (HD)</display-name>
-    <url>http://www.singteltv.com.sg</url>
+  <channel id="Cartoonito.uk">
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Cartoonito</display-name>
   </channel>
 
     <channel id="Cinema.One.ph">
@@ -4805,625 +4805,930 @@
     <title lang="en">Adventure Time</title>
     <desc lang="en">Finn goes to great lengths to catch the evil Duke of Nuts, only to discover he's not such a bad guy after all.</desc>
   </programme>
-  <programme start="20250228000000 +0800" stop="20250228010000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Lilit lights up and stands in place of the Beacon Mushroom.</desc>
+  <programme channel="Cartoonito.uk" start="20250228000000 +0000" stop="20250228010000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71b6859c-1a4d-3f33-865e-8f3f037dd8fb/16-9" />
   </programme>
-  <programme start="20250228010000 +0800" stop="20250228020000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Chanterelle offers to help Lilit dig into her talent.</desc>
+  <programme channel="Cartoonito.uk" start="20250228010000 +0000" stop="20250228020000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bbd6ff68-4773-3851-8d25-ddc2baac5d1e/16-9" />
   </programme>
-  <programme start="20250228020000 +0800" stop="20250228030000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">In the Savannah, Bop and Boo befriend Zhenya the ZEBRA, who loves to read. She shows them the big green dragon in her book!</desc>
+  <programme channel="Cartoonito.uk" start="20250228020000 +0000" stop="20250228030000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a013364e-6380-4620-8efd-c6791b25f407/16-9" />
   </programme>
-  <programme start="20250228030000 +0800" stop="20250228040000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">The Brave Bunnies meet their BEAR friend, Barry, in the Forest. He's delivering a jar of honey to his mum. But he's lost it!</desc>
+  <programme channel="Cartoonito.uk" start="20250228030000 +0000" stop="20250228040000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6bbfe1bd-e59b-3089-a40b-102a84e97698/16-9" />
   </programme>
-  <programme start="20250228040000 +0800" stop="20250228050000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Mumfie, Pinkey and Jelly Bean are getting ready for a moonlight picnic. Thanks to Boo Whale's knowledge of the area, the perfect place is found but something is badly missing.</desc>
+  <programme channel="Cartoonito.uk" start="20250228040000 +0000" stop="20250228050000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d77fb5a1-136e-4d63-9490-c5234b8aaffe/16-9" />
   </programme>
-  <programme start="20250228050000 +0800" stop="20250228060000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Mumfie takes delivery of a box addressed to Pinkey as she is absent. He cannot resist opening it and discovers a strange surprise packet.</desc>
+  <programme channel="Cartoonito.uk" start="20250228050000 +0000" stop="20250228060000 +0000">
+    <title lang="en">CoComelon</title>
+    <desc lang="en">Welcome CoComelon! In CoComelon, Baby JJ and his family go on fun every-day experiences packed with things to learn and explore.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4ef6695f-023a-4dc4-8cd3-0c62c94f6189/16-9" />
   </programme>
-  <programme start="20250228060000 +0800" stop="20250228070000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Lola tries pouting to get what she wants, and soon all the babies are doing it.</desc>
+  <programme channel="Cartoonito.uk" start="20250228060000 +0000" stop="20250228063100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Pest in Show; Hide and Seek; Pontypandy is holding a contest for its Most Talented Pet. Mandy and Sarah engage in a rivalry over whether Nipper or Lion will win.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/457e50cf-a059-44f8-ac48-9fc5a5fc998f/16-9" />
   </programme>
-  <programme start="20250228070000 +0800" stop="20250228073000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Due to a new software update, Myo gets reprogrammed and loses her musicality.</desc>
+  <programme channel="Cartoonito.uk" start="20250228063100 +0000" stop="20250228070000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1aa8c9d-afc3-47fe-bb15-142e0a297519/16-9" />
   </programme>
-  <programme start="20250228073000 +0800" stop="20250228080000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228070000 +0000" stop="20250228073100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwing and Buff pair up to take on the dastardly duo.</desc>
+    <desc lang="en">Wish Upon a Car; Clay Date; Buff makes a wish on a magic artifact for the other Batwheels to be turned into monster trucks, just like him.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d3af531-b395-48e2-8f4b-8e534ebb33db/16-9" />
   </programme>
-  <programme start="20250228080000 +0800" stop="20250228083000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Lucas gives Arlo a bell to ring if he needs help – bad idea.</desc>
+  <programme channel="Cartoonito.uk" start="20250228073100 +0000" stop="20250228080000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">One Way Street; Stage Fright; Trevor takes the girls of Pontypandy to Newtown to see a One Way Street concert. But when the bus skids off the road Mandy still wants to keep going and gets into danger.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5899cc57-3744-42b7-a248-402dd9ea1a9b/16-9" />
   </programme>
-  <programme start="20250228083000 +0800" stop="20250228090000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica and friends struggle to share a playground toy.</desc>
+  <programme channel="Cartoonito.uk" start="20250228080000 +0000" stop="20250228083100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">David the Hero; Nature Chat; When David&apos;s feeling more quiet one day, Barney helps the kids discover the value of different styles of play.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5cf81767-03ef-4e9d-984d-a36013ae9bd6/16-9" />
   </programme>
-  <programme start="20250228090000 +0800" stop="20250228093000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Barney's World</title>
-    <desc lang="en">Barney shows kids how small actions can save the garden!</desc>
-  </programme>
-  <programme start="20250228093000 +0800" stop="20250228100000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">It's the Pretty Big All City Read, but all of the books go missing! / The Mechas find Pretty Big City in a sticky situation.</desc>
-  </programme>
-  <programme start="20250228100000 +0800" stop="20250228103000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228083100 +0000" stop="20250228090000 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">The Legion of Zoom plan to cheat in the Gotham Grand Prix….</desc>
+    <desc lang="en">Wish Upon a Car; Clay Date; Buff makes a wish on a magic artifact for the other Batwheels to be turned into monster trucks, just like him.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d3af531-b395-48e2-8f4b-8e534ebb33db/16-9" />
   </programme>
-  <programme start="20250228103000 +0800" stop="20250228110000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228090000 +0000" stop="20250228100000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97bb3c66-a739-440f-87ad-f79d0de6fa5c/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228100000 +0000" stop="20250228103100 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Taxi Bean; Opera Bean; Mr Bean becomes a taxi driver after being locked in a taxi.; Mr Bean ends up on stage at the opera house...in a dress.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57dca4ae-7bc0-4e57-b298-35e8d8123aa0/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228103100 +0000" stop="20250228110000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ad5b9fb-8e48-46e5-be54-e1033b83c917/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228110000 +0000" stop="20250228120000 +0000">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">They&apos;re the Batwheels - an awesome group of sentient super-powered crime-fighting vehicles defending Gotham City alongside a host of DC Super Heroes.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/862861e9-8887-3446-a471-c8cf3d69aa7f/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228120000 +0000" stop="20250228130000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fda48b1-5460-41eb-b247-b41b7d52a469/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228130000 +0000" stop="20250228140000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d76678bc-fb24-4d34-9ef9-7904a2ed1d88/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228140000 +0000" stop="20250228143100 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Taxi Bean; Opera Bean; Mr Bean becomes a taxi driver after being locked in a taxi.; Mr Bean ends up on stage at the opera house...in a dress.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57dca4ae-7bc0-4e57-b298-35e8d8123aa0/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250228143100 +0000" stop="20250228150000 +0000">
     <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella suggests a birthday star for Priya's gift.</desc>
+    <desc lang="en">Friendship Supernova; For the Win; Slippy wants to watch an eclipse so badly that he makes special safety goggles for himself and his friends. But Ella has a different plan.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fa6b4bd-dff9-470c-9dd4-74be94d55518/16-9" />
   </programme>
-  <programme start="20250228110000 +0800" stop="20250228113000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Due to a new software update, Myo gets reprogrammed and loses her musicality.</desc>
-  </programme>
-  <programme start="20250228113000 +0800" stop="20250228120000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Sylvester learns to overcome his fear of lightning.</desc>
-  </programme>
-  <programme start="20250228120000 +0800" stop="20250228123000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Lucas gives Arlo a bell to ring if he needs help – bad idea.</desc>
-  </programme>
-  <programme start="20250228123000 +0800" stop="20250228130000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica and friends struggle to share a playground toy.</desc>
-  </programme>
-  <programme start="20250228130000 +0800" stop="20250228133000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Barney's World</title>
-    <desc lang="en">Barney shows kids how small actions can save the garden!</desc>
-  </programme>
-  <programme start="20250228133000 +0800" stop="20250228140000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">Pauleen Penguin hires The Looney Builders to build her home.</desc>
-  </programme>
-  <programme start="20250228140000 +0800" stop="20250228143000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228150000 +0000" stop="20250228153100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">The Legion of Zoom plan to cheat in the Gotham Grand Prix….</desc>
+    <desc lang="en">Wish Upon a Car; Clay Date; Buff makes a wish on a magic artifact for the other Batwheels to be turned into monster trucks, just like him.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d3af531-b395-48e2-8f4b-8e534ebb33db/16-9" />
   </programme>
-  <programme start="20250228143000 +0800" stop="20250228150000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella suggests a birthday star for Priya's gift.</desc>
+  <programme channel="Cartoonito.uk" start="20250228153100 +0000" stop="20250228160000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">The Break-Up; Fiery Football; Sam arrives at Mike&apos;s workshop to find Elvis and Mike rehearsing for a concert. Elvis and Mike start arguing about a part of the song and the argument soon escalates.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db4afef3-6087-3be0-9e98-867b05e69e22/16-9" />
   </programme>
-  <programme start="20250228150000 +0800" stop="20250228153000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">The Dream Factory – and their Twin-Bots - save the robotics competition when Biff and Tiff's robots go wild.</desc>
+  <programme channel="Cartoonito.uk" start="20250228160000 +0000" stop="20250228163100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">Save the Garden; The Great Grateful Scavenger Hunt; To help save the community garden, Barney shows the kids that small things can affect big change.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/be13aa3b-2206-42bd-902c-70820ea811e4/16-9" />
   </programme>
-  <programme start="20250228153000 +0800" stop="20250228160000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Mush-Mush, Chep and Lilit becomes heroes in Mushton.</desc>
+  <programme channel="Cartoonito.uk" start="20250228163100 +0000" stop="20250228170000 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Caring Bean; Jurassic Bean; Mr Bean has to look after an injured Mrs Wicket whose demands start to become a pain.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3af623f9-e9e7-415e-9910-aae1aacc5f5a/16-9" />
   </programme>
-  <programme start="20250228160000 +0800" stop="20250228163000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Esme &amp; Roy</title>
-    <desc lang="en">After watching a mystery show before bed, Simon finds himself getting spooked by all kinds of sounds at night!</desc>
+  <programme channel="Cartoonito.uk" start="20250228170000 +0000" stop="20250228173100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Lost in the Caves; Shape Up and Shine; The Pontypandy Pioneers go exploring in some mountain caves.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/340b9a02-042a-47e9-be3b-632e1c1a48b7/16-9" />
   </programme>
-  <programme start="20250228163000 +0800" stop="20250228170000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">After a mixed-up by Miguel results in a baby t-rex hatching at the Dino Airport, Miguel seeks to help the little dinosaur find his place among the airport team.</desc>
-  </programme>
-  <programme start="20250228170000 +0800" stop="20250228173000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Lucas tries to help Bodhi fulfill her dream.</desc>
-  </programme>
-  <programme start="20250228173000 +0800" stop="20250228180000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Ranger Nat is stuck at the bottom of the crevice, but the problem grows when Mecha Abby also gets stuck. / Zee tries to launch his rocket into space.</desc>
-  </programme>
-  <programme start="20250228180000 +0800" stop="20250228183000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Due to a new software update, Myo gets reprogrammed and loses her musicality.</desc>
-  </programme>
-  <programme start="20250228183000 +0800" stop="20250228190000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228173100 +0000" stop="20250228180000 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">The Legion of Zoom plan to cheat in the Gotham Grand Prix….</desc>
+    <desc lang="en">Bibi&apos;s Bat-Belt Blunder; Batwing and the Nets; Bibi just can&apos;t put down her new exciting video game, even when MOE needs her help packing Bam&apos;s utility belt for a mission.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b8a96758-cbaa-4390-8c9e-f8b8864c1143/16-9" />
   </programme>
-  <programme start="20250228190000 +0800" stop="20250228193000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Bugs' failure as a magician turns to success when he experiences the true magic of nature.</desc>
+  <programme channel="Cartoonito.uk" start="20250228180000 +0000" stop="20250228183100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Space Train; Wicker Bear; As Sam Ellie and Arnold put Bessie in the shed to protect her from the winter chill they come across Gareth wearing a cardboard astronaut&apos;s helmet.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f772adc2-ec07-3435-87c0-c74846d31ae1/16-9" />
   </programme>
-  <programme start="20250228193000 +0800" stop="20250228200000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Esme &amp; Roy</title>
-    <desc lang="en">Simon comes down with a case of the Swoozlepox which makes him really itchy. Can Esme and Roy help him stop scratching and get better quickly?</desc>
+  <programme channel="Cartoonito.uk" start="20250228183100 +0000" stop="20250228190000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e280d281-45ed-4c49-9b8a-c467e4f272fa/16-9" />
   </programme>
-  <programme start="20250228200000 +0800" stop="20250228203000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228190000 +0000" stop="20250228193100 +0000">
     <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders build a space station.</desc>
+    <desc lang="en">Taz Recycle; The Easter Bunnies; When The Looney Builders build Taz a wrecking ball vehicle, he struggles to learn how to operate it.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f1c3697-26ce-4717-810f-9c6c884578b3/16-9" />
   </programme>
-  <programme start="20250228203000 +0800" stop="20250228210000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Chew balls are raining down on the Tangra-Hut!</desc>
+  <programme channel="Cartoonito.uk" start="20250228193100 +0000" stop="20250228200000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Castles in the Air; Ice Hockey Meltdown; Station Officer Steele is horrified to find he has two Cridlington&apos;s on his crew when Elvis&apos; cousin Jerry Lee stands in for Penny who is away on a course.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0ef5ce2-7747-3ae0-bc13-356bb11c2d88/16-9" />
   </programme>
-  <programme start="20250228210000 +0800" stop="20250228213000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Zee's giant decorations for the croquet tournament are too big to get to the farm. Then, the Mechas need to put the sphere on top of a skyscraper.</desc>
-  </programme>
-  <programme start="20250228213000 +0800" stop="20250228220000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Zee's growth ray turns Moobert giant. Then, Ranger Nat's kite blows away in the wind, and the Mechas build their own kite to find it.</desc>
-  </programme>
-  <programme start="20250228220000 +0800" stop="20250228230000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders are hired to build a log cabin.</desc>
-  </programme>
-  <programme start="20250228230000 +0800" stop="20250301000000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Sylvester learns to overcome his fear of lightning.</desc>
-  </programme>
-  <programme start="20250301000000 +0800" stop="20250301010000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Mush-Mush wants to be just like Starmush when he grows up.</desc>
-  </programme>
-  <programme start="20250301010000 +0800" stop="20250301020000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Bolly has dubbed Mush-Mush, Chep and Lilit The Adventurers.</desc>
-  </programme>
-  <programme start="20250301020000 +0800" stop="20250301030000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">In the Jungle, the Brave Bunnies paint at their art table. Kara the CHAMELEON hops from flower to flower, changing color to disappear, like magic!</desc>
-  </programme>
-  <programme start="20250301030000 +0800" stop="20250301040000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">A toppled tree in the savannah stops the Bunnies on their journey, but Bop thinks it makes a great obstacle course!</desc>
-  </programme>
-  <programme start="20250301040000 +0800" stop="20250301050000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Black Cat is going away for the day and asks Mumfie, Pinkey and Jelly Bean to look after Kaleb.</desc>
-  </programme>
-  <programme start="20250301050000 +0800" stop="20250301060000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Mumfie is watching Jelly Bean and Pinkey who are playing at blowing bubbles. Kaleb joins them and they all try to blow a better bubble – except Mumfie who does not know how to.</desc>
-  </programme>
-  <programme start="20250301060000 +0800" stop="20250301070000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">When Granny gets sick, Lola tries to take over her responsibilities.</desc>
-  </programme>
-  <programme start="20250301070000 +0800" stop="20250301073000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">The Power Rockers find one of Dr. Toki's gadgets that allows them to change their size.</desc>
-  </programme>
-  <programme start="20250301073000 +0800" stop="20250301080000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella suggests a birthday star for Priya's gift.</desc>
-  </programme>
-  <programme start="20250301080000 +0800" stop="20250301083000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Barney's World</title>
-    <desc lang="en">Mel's friends do something nice while she recovers.</desc>
-  </programme>
-  <programme start="20250301083000 +0800" stop="20250301090000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">When a scrappy little compy gets underfoot trying to be just like Blitz, Blitz learns that even the smallest member of the team can make a big difference.</desc>
-  </programme>
-  <programme start="20250301090000 +0800" stop="20250301093000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders distract Petunia to bake a cake.</desc>
-  </programme>
-  <programme start="20250301093000 +0800" stop="20250301100000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Ranger Nat's hike turns to adventure when he finds a treasure map. / Zee and MacBarm are setting up their corn maze with the help of Zee's Zee Mobile.</desc>
-  </programme>
-  <programme start="20250301100000 +0800" stop="20250301103000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250228200000 +0000" stop="20250228203100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Buff must find confidence to stop Music Meister.</desc>
+    <sub-title lang="en">The Wizard of Bats Pt</sub-title>
+    <desc lang="en">1; The Wizard of Bats Pt. 2; Bibi enters the world of The Wizard of Oz, where she meets familiar vehicle friends and goes on an amazing quest to see the wizard himself.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/75485272-70c1-3961-8c0e-7ddcc38f1517/16-9" />
+    <episode-num system="xmltv_ns">1.21.</episode-num>
   </programme>
-  <programme start="20250301103000 +0800" stop="20250301110000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">The Dream Factory crew builds a pigeon coop to house a bunch of wandering pigeons that ‘invaded' the Dream Factory.</desc>
+  <programme channel="Cartoonito.uk" start="20250228203100 +0000" stop="20250228210000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0043a79d-72e7-4f2e-ba73-87a963cd8d17/16-9" />
   </programme>
-  <programme start="20250301110000 +0800" stop="20250301113000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">The Power Rockers find one of Dr. Toki's gadgets that allows them to change their size.</desc>
+  <programme channel="Cartoonito.uk" start="20250228210000 +0000" stop="20250228220000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9fa2e020-22df-361a-9002-e5d769bf8cbc/16-9" />
   </programme>
-  <programme start="20250301113000 +0800" stop="20250301120000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">The babies learn the purpose of toilets.</desc>
+  <programme channel="Cartoonito.uk" start="20250228220000 +0000" stop="20250228230000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/43d52b50-e3ef-3505-b315-80dd19f023e3/16-9" />
   </programme>
-  <programme start="20250301120000 +0800" stop="20250301123000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Ranger Nat's hike turns to adventure when he finds a treasure map. / Zee and MacBarm are setting up their corn maze with the help of Zee's Zee Mobile.</desc>
+  <programme channel="Cartoonito.uk" start="20250228230000 +0000" stop="20250301000000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1a1be136-a335-4ec2-a882-3958ba5f48e4/16-9" />
   </programme>
-  <programme start="20250301123000 +0800" stop="20250301130000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica wants to be a big kid….</desc>
+  <programme channel="Cartoonito.uk" start="20250301000000 +0000" stop="20250301010000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c4556475-fe3c-35d9-9a37-b6330b96e4c8/16-9" />
   </programme>
-  <programme start="20250301130000 +0800" stop="20250301133000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Jovial wants to show his favorite pool to his friends….</desc>
+  <programme channel="Cartoonito.uk" start="20250301010000 +0000" stop="20250301020000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e38837c6-c3df-373d-9b45-449b3b1047e8/16-9" />
   </programme>
-  <programme start="20250301133000 +0800" stop="20250301140000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders distract Petunia to bake a cake.</desc>
+  <programme channel="Cartoonito.uk" start="20250301020000 +0000" stop="20250301030000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd27a6c6-d3e5-3dd0-b162-d265129cafd2/16-9" />
   </programme>
-  <programme start="20250301140000 +0800" stop="20250301143000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250301030000 +0000" stop="20250301040000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32ac0655-5ef0-3c75-bb35-e4bf84d0ff57/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301040000 +0000" stop="20250301050000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c062957c-3a2c-4dec-92a3-df3bf1d60a40/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301050000 +0000" stop="20250301060000 +0000">
+    <title lang="en">CoComelon</title>
+    <desc lang="en">Welcome CoComelon! In CoComelon, Baby JJ and his family go on fun every-day experiences packed with things to learn and explore.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5bf0f671-1660-4c77-a2c8-4e9591e1b676/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301060000 +0000" stop="20250301063100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Float Your Boat; Froggy Fantasy; Charlie is having a day at the beach with James and Sarah. But today is not Charlie&apos;s day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c80418c4-07c9-4aee-b04b-2511b6f621b5/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301063100 +0000" stop="20250301070000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e29f43b1-59fb-4c66-a693-3d0f323f39b2/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301070000 +0000" stop="20250301073100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Buff must find confidence to stop Music Meister.</desc>
+    <desc lang="en">Redbird-O-Flage; Lend Me Your Volunteer; Redbird struggles to stop Poison Ivy&apos;s diabolical schemes because he wants to be in the spotlight.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71ee9c9f-d1f6-4ee7-9ef2-809286835a76/16-9" />
   </programme>
-  <programme start="20250301143000 +0800" stop="20250301150000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">The Dream Factory crew builds a pigeon coop to house a bunch of wandering pigeons that ‘invaded' the Dream Factory.</desc>
+  <programme channel="Cartoonito.uk" start="20250301073100 +0000" stop="20250301080000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Dashing Through the Snow; Big Top Norman; It&apos;s Christmas and Gareth has promised Sarah James Mandy and Norman a magical day out. But Gareth doesn&apos;t know a snow storm is approaching.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b988d11-2968-4a0e-8eb8-63c23d90d3df/16-9" />
   </programme>
-  <programme start="20250301150000 +0800" stop="20250301153000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Mumfie accidentally damages Jelly Bean's sunflower but it is Pinkey who gets the blame when the flower wilts.</desc>
+  <programme channel="Cartoonito.uk" start="20250301080000 +0000" stop="20250301083100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">Missing Mel; The Castaway Crew; When Mel breaks her arm, she&apos;s away from the park while she recovers and her friends do something nice to show her how much they missed her.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4c1da46-1315-4d3b-a1b3-7de5c8fed158/16-9" />
   </programme>
-  <programme start="20250301153000 +0800" stop="20250301160000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Barney's World</title>
-    <desc lang="en">Mel's friends do something nice while she recovers.</desc>
-  </programme>
-  <programme start="20250301160000 +0800" stop="20250301163000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">They must switch off the Tangra-sparkles!</desc>
-  </programme>
-  <programme start="20250301163000 +0800" stop="20250301170000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">When a scrappy little compy gets underfoot trying to be just like Blitz, Blitz learns that even the smallest member of the team can make a big difference.</desc>
-  </programme>
-  <programme start="20250301170000 +0800" stop="20250301173000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica wants to be a big kid….</desc>
-  </programme>
-  <programme start="20250301173000 +0800" stop="20250301180000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">The Mechas eat a pie that was meant to stop an asteroid.</desc>
-  </programme>
-  <programme start="20250301180000 +0800" stop="20250301183000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">The Power Rockers find one of Dr. Toki's gadgets that allows them to change their size.</desc>
-  </programme>
-  <programme start="20250301183000 +0800" stop="20250301190000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250301083100 +0000" stop="20250301090000 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Buff must find confidence to stop Music Meister.</desc>
+    <desc lang="en">Music Meister Mayhem; Clay Date; Music Meister is stealing the singing voices of all the people in Gotham.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac58a40f-7a08-4f90-a5ab-2e29f9cd92d3/16-9" />
   </programme>
-  <programme start="20250301190000 +0800" stop="20250301193000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Petunia and Tweety learn how to call long distance ... and amass a huge phone bill.</desc>
+  <programme channel="Cartoonito.uk" start="20250301090000 +0000" stop="20250301101500 +0000">
+    <title lang="en">Fireman Sam: Set for Action!</title>
+    <desc lang="en">Fireman Sam stars in a Hollywood movie remake of his most daring rescue ever.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/84e0f580-0e31-4470-b95b-ea1d10e0917d/16-9" />
   </programme>
-  <programme start="20250301193000 +0800" stop="20250301200000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella suggests a birthday star for Priya's gift.</desc>
+  <programme channel="Cartoonito.uk" start="20250301101500 +0000" stop="20250301110000 +0000">
+    <title lang="en">Fireman Sam: Helicopter Heroes</title>
+    <desc lang="en">Catch all the best helicopter rescues in this special collection of adventures, as Fireman Sam and his team parade the town in the sky saving the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eabff2d6-82fe-4a27-9dc0-19426718359b/16-9" />
   </programme>
-  <programme start="20250301200000 +0800" stop="20250301203000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders distract Petunia to bake a cake.</desc>
+  <programme channel="Cartoonito.uk" start="20250301110000 +0000" stop="20250301120000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9a5d509-fa8b-4f67-82d2-a31f7629c01f/16-9" />
   </programme>
-  <programme start="20250301203000 +0800" stop="20250301210000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">The wind takes Geo's bonnet away!</desc>
+  <programme channel="Cartoonito.uk" start="20250301120000 +0000" stop="20250301130000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aafef479-1ebd-4189-8e7f-adca465c3ed6/16-9" />
   </programme>
-  <programme start="20250301210000 +0800" stop="20250301213000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">The Martians accidentally break the train bridge over the ravine. Then, the Zee Mobile won't stop crashing into MacBarm's barn door.</desc>
+  <programme channel="Cartoonito.uk" start="20250301130000 +0000" stop="20250301140000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3763b434-74e1-4f5f-b3c6-f828cf92de8b/16-9" />
   </programme>
-  <programme start="20250301213000 +0800" stop="20250301220000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Grandma and Timmy learn to carve stone for the Pinecone Art Show. Then, Ranger Nat comes across the Big-Footed Cave Bird while hiking.</desc>
+  <programme channel="Cartoonito.uk" start="20250301140000 +0000" stop="20250301151500 +0000">
+    <title lang="en">Fireman Sam: Norman Price and the Mystery in the Sky</title>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4f7086b2-6e1b-49e2-b116-e361113abcdc/16-9" />
   </programme>
-  <programme start="20250301220000 +0800" stop="20250301230000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders build a skate park for the kids.</desc>
+  <programme channel="Cartoonito.uk" start="20250301151500 +0000" stop="20250301160000 +0000">
+    <title lang="en">Fireman Sam: Animal Rescues</title>
+    <desc lang="en">Watch Fireman Sam rescue the smallest to the largest of animals, as he goes on exciting adventures helping creatures in need.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/847a7807-a3a2-47a4-b8c6-79f5cb14b276/16-9" />
   </programme>
-  <programme start="20250301230000 +0800" stop="20250302000000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">The babies learn the purpose of toilets.</desc>
+  <programme channel="Cartoonito.uk" start="20250301160000 +0000" stop="20250301163100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">Drawing Attention; Worth the Wait; When Vivie feels ignored, she fakes an injury and Barney helps her learn the importance in speaking up for herself.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd119a39-097d-41d4-bef7-8233c8356626/16-9" />
   </programme>
-  <programme start="20250302000000 +0800" stop="20250302010000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Lilit convinces Mush-Mush to join Chep for storm-watching.</desc>
+  <programme channel="Cartoonito.uk" start="20250301163100 +0000" stop="20250301170000 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Hotel Bean; Bean Phone; Mr Bean has some unexpected guests who think he runs a hotel!; Mr Bean wants a smart phone but they&apos;re too expensive especially when you can build your own.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc822fa9-a2c0-4809-982d-61388be0b75e/16-9" />
   </programme>
-  <programme start="20250302010000 +0800" stop="20250302020000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Mush-Mush and friends' favourite tree is rotten and doomed.</desc>
+  <programme channel="Cartoonito.uk" start="20250301170000 +0000" stop="20250301173100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b4cf00ec-165d-44a7-8886-35370551715f/16-9" />
   </programme>
-  <programme start="20250302020000 +0800" stop="20250302030000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">In the windy Plains, Ma's sunhat gets blown into the trees! While Pa looks after the Bunny-Babies, Ma takes Bop and Boo along to search for it.</desc>
-  </programme>
-  <programme start="20250302030000 +0800" stop="20250302040000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">Ma and Pa play basketball in a Forest Clearing, while Bop and Boo befriend Barry, the BEAR.</desc>
-  </programme>
-  <programme start="20250302040000 +0800" stop="20250302050000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">When Mumfie and his friends decide to go and have some fun at the beach, Kaleb cannot join in because, according to Black Cat, someone of his importance must have a Beach Castle.</desc>
-  </programme>
-  <programme start="20250302050000 +0800" stop="20250302060000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Black Cat's kite has fallen somewhere in the scary Foggy Forest. Kaleb went to look for it but has still not returned and the cat is worried.</desc>
-  </programme>
-  <programme start="20250302060000 +0800" stop="20250302070000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Daffy feels defeated whenever things aren't going his way.</desc>
-  </programme>
-  <programme start="20250302070000 +0800" stop="20250302073000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Baby Country comes to the daycare wearing very special boots that the Power Rockers covet.</desc>
-  </programme>
-  <programme start="20250302073000 +0800" stop="20250302080000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella lies to Angelie, saying she can comet surf.</desc>
-  </programme>
-  <programme start="20250302080000 +0800" stop="20250302083000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica feels sick, and Small Uncle tries to cheer her up.</desc>
-  </programme>
-  <programme start="20250302083000 +0800" stop="20250302090000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">After Clover accidentally breaks Min's stegoscope and tries to hide the evidence, he learns that he should never be afraid to tell Min when he makes a mistake.</desc>
-  </programme>
-  <programme start="20250302090000 +0800" stop="20250302093000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Easter Bunny is sick, so hires The Looney Builders to….</desc>
-  </programme>
-  <programme start="20250302093000 +0800" stop="20250302100000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">The windmill isn't turning, which means Sunny Field Farm has no power. Then, Izzy and Timmy make a bird caller for Grandma.</desc>
-  </programme>
-  <programme start="20250302100000 +0800" stop="20250302103000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250301173100 +0000" stop="20250301180000 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwheels help Nightbike face his fear to stop The Penguin!</desc>
+    <desc lang="en">Batwing and the Nets; Wish Upon a Car; When Batwing&apos;s favorite Bat-Net gets ripped during a chase with Riddler, she must learn to let go of her old net.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/790e5d0a-56d4-48d4-b674-f9b10ce1b563/16-9" />
   </programme>
-  <programme start="20250302103000 +0800" stop="20250302110000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">Drew is forced to play both his and Jonathan's roles in Ayana's school play.</desc>
+  <programme channel="Cartoonito.uk" start="20250301180000 +0000" stop="20250301183100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">The Zip Line of Doom; Red Hot Chilli Nibbles; Norman and Mandy, bored during Moose&apos;s Mountain Adventure activity day, sneak away to try out the Zip Line of Doom.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34597efc-c813-4ac7-80f9-d057d7c725d0/16-9" />
   </programme>
-  <programme start="20250302110000 +0800" stop="20250302113000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Baby Country comes to the daycare wearing very special boots that the Power Rockers covet.</desc>
+  <programme channel="Cartoonito.uk" start="20250301183100 +0000" stop="20250301190000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/565102b9-99c5-420a-8d29-fdcbd26eeb39/16-9" />
   </programme>
-  <programme start="20250302113000 +0800" stop="20250302120000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Petunia gets hooked on watching television and stops playing with her friends.</desc>
-  </programme>
-  <programme start="20250302120000 +0800" stop="20250302123000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">The windmill isn't turning, which means Sunny Field Farm has no power. Then, Izzy and Timmy make a bird caller for Grandma.</desc>
-  </programme>
-  <programme start="20250302123000 +0800" stop="20250302130000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica discovers her favorite toy is dirty.</desc>
-  </programme>
-  <programme start="20250302130000 +0800" stop="20250302133000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Tangrillians take over the coveted soap springs!</desc>
-  </programme>
-  <programme start="20250302133000 +0800" stop="20250302140000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250301190000 +0000" stop="20250301193100 +0000">
     <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Easter Bunny is sick, so hires The Looney Builders to….</desc>
+    <desc lang="en">The Great Flying Flea; The Snuffles; The Looney Builders discover Zippy, an acrobatic flea, living on Sylvester&apos;s back.; The Looney Builders are hired to build an outdoor movie theater in the park.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/61a5f2e9-ddcb-3970-8c21-109d13aeee62/16-9" />
   </programme>
-  <programme start="20250302140000 +0800" stop="20250302143000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250301193100 +0000" stop="20250301200000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Brother&apos;s Weekend; Great Billboard of Fire; Sam and Charlie try to get away from it all with a quiet weekend on Pontypandy Island, but it&apos;s not as peaceful as they expected.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0cfe5af-44df-4676-b55b-ebc6ebeff979/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250301200000 +0000" stop="20250301203100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwheels help Nightbike face his fear to stop The Penguin!</desc>
+    <desc lang="en">They&apos;re the Batwheels - an awesome group of sentient super-powered crime-fighting vehicles defending Gotham City alongside a host of DC Super Heroes.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ce970c2-9807-40d5-b838-551525f1846e/16-9" />
   </programme>
-  <programme start="20250302143000 +0800" stop="20250302150000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">Drew is forced to play both his and Jonathan's roles in Ayana's school play.</desc>
+  <programme channel="Cartoonito.uk" start="20250301203100 +0000" stop="20250301210000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5fbfde17-b461-4382-b9cd-81f8b33bc701/16-9" />
   </programme>
-  <programme start="20250302150000 +0800" stop="20250302153000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">It is a special day for Mumfie and his friends today, they are going for a cruise in their boat. Zafir and Mr. Bernard pass by and want to join them.</desc>
+  <programme channel="Cartoonito.uk" start="20250301210000 +0000" stop="20250301220000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e882a4b6-7042-35ae-bc39-ae13eb5259e3/16-9" />
   </programme>
-  <programme start="20250302153000 +0800" stop="20250302160000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica feels sick, and Small Uncle tries to cheer her up.</desc>
+  <programme channel="Cartoonito.uk" start="20250301220000 +0000" stop="20250301230000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/491d8e08-e82c-3c7d-b7cc-4da95b4e127d/16-9" />
   </programme>
-  <programme start="20250302160000 +0800" stop="20250302163000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">The Tangranimals help Yogo to recover his chew balls.</desc>
+  <programme channel="Cartoonito.uk" start="20250301230000 +0000" stop="20250302000000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/beff6bc5-d2ef-30ed-953a-6362949dcc82/16-9" />
   </programme>
-  <programme start="20250302163000 +0800" stop="20250302170000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">After Clover accidentally breaks Min's stegoscope and tries to hide the evidence, he learns that he should never be afraid to tell Min when he makes a mistake.</desc>
+  <programme channel="Cartoonito.uk" start="20250302000000 +0000" stop="20250302010000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ae870504-5028-39a4-a77a-85f8c3f62508/16-9" />
   </programme>
-  <programme start="20250302170000 +0800" stop="20250302173000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica discovers her favorite toy is dirty.</desc>
+  <programme channel="Cartoonito.uk" start="20250302010000 +0000" stop="20250302020000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da1cb078-54ef-4a0d-b832-d2232f455869/16-9" />
   </programme>
-  <programme start="20250302173000 +0800" stop="20250302180000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Ranger Nat is stuck at the bottom of the crevice, but the problem grows when Mecha Abby also gets stuck. / Zee tries to launch his rocket into space.</desc>
+  <programme channel="Cartoonito.uk" start="20250302020000 +0000" stop="20250302030000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7fabcc8f-4499-36b7-8396-92cecd795940/16-9" />
   </programme>
-  <programme start="20250302180000 +0800" stop="20250302183000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Baby Country comes to the daycare wearing very special boots that the Power Rockers covet.</desc>
+  <programme channel="Cartoonito.uk" start="20250302030000 +0000" stop="20250302040000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f8dbab7-de4b-353e-bfc6-6652805ab3ee/16-9" />
   </programme>
-  <programme start="20250302183000 +0800" stop="20250302190000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250302040000 +0000" stop="20250302050000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1a2ea743-94ca-312f-a412-f1156b6ba6c3/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302050000 +0000" stop="20250302060000 +0000">
+    <title lang="en">CoComelon</title>
+    <desc lang="en">Welcome CoComelon! In CoComelon, Baby JJ and his family go on fun every-day experiences packed with things to learn and explore.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95cc9b7a-185c-4e78-b312-46fd5ae36505/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302060000 +0000" stop="20250302063100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Pioneer Peril; Space Sandwich; The Pontypandy Pioneers are out to earn their raft building badge. James learns a lesson when some faulty wires for his tablet charger start a fire.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/56c1f2ad-afa5-4a2a-8072-0f3b675ec251/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302063100 +0000" stop="20250302070000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bdf16da1-8df4-4865-bbef-af9cd984b6d6/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302070000 +0000" stop="20250302073100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwheels help Nightbike face his fear to stop The Penguin!</desc>
+    <desc lang="en">Bibi&apos;s Bat-Belt Blunder; Bite-Sized Buff; Bibi just can&apos;t put down her new exciting video game, even when MOE needs her help packing Bam&apos;s utility belt for a mission.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c075ac8-e015-41ad-8fc9-fc84301a352d/16-9" />
   </programme>
-  <programme start="20250302190000 +0800" stop="20250302193000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">The kids become obsessed with getting the prizes from boxes of sugary cereal.</desc>
+  <programme channel="Cartoonito.uk" start="20250302073100 +0000" stop="20250302080000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Operation Sea Turtle; Escape from Dinosaur Island; A sea turtle has been spotted off the coast of Pontypandy and everyone is doing their part to clean up the ocean.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b040fff7-7a19-421e-92cc-d0910d19a018/16-9" />
   </programme>
-  <programme start="20250302193000 +0800" stop="20250302200000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella lies to Angelie, saying she can comet surf.</desc>
+  <programme channel="Cartoonito.uk" start="20250302080000 +0000" stop="20250302083100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">The Big Spill; Nature Chat; Vivie&apos;s upset when her painting gets ruined so Barney takes the kids on a high-seas adventure to help Vivie learn healthy ways to manage big feelings.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ffd416c1-d890-446e-ab1c-71bdfe06a9d3/16-9" />
   </programme>
-  <programme start="20250302200000 +0800" stop="20250302203000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250302083100 +0000" stop="20250302090000 +0000">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">Redbird-O-Flage; Lend Me Your Volunteer; Redbird struggles to stop Poison Ivy&apos;s diabolical schemes because he wants to be in the spotlight.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c27fc592-6b00-48ac-9771-8185d504b5a8/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302090000 +0000" stop="20250302101500 +0000">
+    <title lang="en">Fireman Sam: Alien Alert</title>
+    <desc lang="en">Buck Douglas, the famous &quot;Alien Quest&quot; TV show host visits Pontypandy and everyone in town searches for aliens.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c8913bb-5a09-42d4-a9f0-916df060fc88/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302101500 +0000" stop="20250302110000 +0000">
+    <title lang="en">Fireman Sam: Spooky Adventures</title>
+    <desc lang="en">When encounters take a spooky turn for the worst, Fireman Sam and his crew are there to save the day and put the town at rest.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27cbcbd0-379b-4e2b-958b-23fffa3f9c5e/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302110000 +0000" stop="20250302120000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c8503b20-fd23-48c6-a866-93df72f813b2/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302120000 +0000" stop="20250302130000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71f307db-a5b7-4227-a24e-5476de43614e/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302130000 +0000" stop="20250302140000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c6b9608d-bba8-48d8-97d7-0f84492e643b/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302140000 +0000" stop="20250302151500 +0000">
+    <title lang="en">Fireman Sam: Heroes of the Storm</title>
+    <desc lang="en">Fireman Sam and his team are on a mission to save Pontypandy.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b61c4f72-004d-450b-9aba-3c61732acb97/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302151500 +0000" stop="20250302160000 +0000">
+    <title lang="en">Fireman Sam: Ocean Rescues</title>
+    <desc lang="en">Watch Fireman Sam and his team perform rescue operations at sea, when some of the townsfolk get into troubled waters.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4abeeb1c-9b12-48e1-b445-cff961891a30/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302160000 +0000" stop="20250302163100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">The Great Grateful Scavenger Hunt; David the Hero; Barney creates a magical scavenger hunt to help Mel focus on what she is grateful for.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d0212c27-a1af-426e-9037-8a2f2e60981d/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302163100 +0000" stop="20250302170000 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Wedding Day; Car Wars; Mr Bean has to get the bride to the church on time...anyway he can!; Mr Bean finally has a showdown with the mysterious Reliant Robin. Who will be the victor.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/09f57a9a-4f5d-488a-a7c6-e08f15f773a6/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302170000 +0000" stop="20250302173100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/81fa097b-85fc-45d2-954f-6dd5b9aeaf35/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302173100 +0000" stop="20250302180000 +0000">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">Music Meister Mayhem; Clay Date; Music Meister is stealing the singing voices of all the people in Gotham.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac58a40f-7a08-4f90-a5ab-2e29f9cd92d3/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302180000 +0000" stop="20250302183100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Norman and the Sea; The Hunt for the Lesser Spotted Wader; Mike and Charlie are looking for the rare spotted ray, when they lose control and the boat begins sinking. Quick! Call Ocean Rescue.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4b8978a1-e887-45a9-80a7-3a5582cba9e3/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302183100 +0000" stop="20250302190000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9f33e33-3bdf-498f-89cb-04ed77c8f0c0/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250302190000 +0000" stop="20250302193100 +0000">
     <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Easter Bunny is sick, so hires The Looney Builders to….</desc>
+    <desc lang="en">Tweety-Go-Round; Underwater Star; Tweety leads the building of a new merry-go-round.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/823ea89a-acd6-3ba4-94ae-18a9a380aa48/16-9" />
   </programme>
-  <programme start="20250302203000 +0800" stop="20250302210000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Geo and his friends cheer octo grandpa up.</desc>
+  <programme channel="Cartoonito.uk" start="20250302193100 +0000" stop="20250302200000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Fire on the Water; Riptide Rescue; While Professor Pickles leads a search for an ancient cannon called the Scarlet Firestorm, a fire breaks out on the water covered in oil.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4b0b899e-0238-482f-8f37-4acbbb8d675e/16-9" />
   </programme>
-  <programme start="20250302210000 +0800" stop="20250302213000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Lloyd's wind-up powered go-cart keeps running out of energy. Then, Sif's rocket is pushed off course by a satellite!</desc>
-  </programme>
-  <programme start="20250302213000 +0800" stop="20250302220000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">Lloyd is selling silly hats at the factory./ Zee has made a giant rocket ship in a bottle, but things take a turn when Zee gets stuck inside!</desc>
-  </programme>
-  <programme start="20250302220000 +0800" stop="20250302230000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders build an upside-down radio station.</desc>
-  </programme>
-  <programme start="20250302230000 +0800" stop="20250303000000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Petunia gets hooked on watching television and stops playing with her friends.</desc>
-  </programme>
-  <programme start="20250303000000 +0800" stop="20250303010000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Mush-Mush is amazed by how Mushpot uses his staff of wisdom.</desc>
-  </programme>
-  <programme start="20250303010000 +0800" stop="20250303020000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Lilit lights up and stands in place of the Beacon Mushroom.</desc>
-  </programme>
-  <programme start="20250303020000 +0800" stop="20250303030000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">In the Jungle, Bop and Boo play catch with Boo's bright orange carrot-ball, as two curious MONKEY sisters, Chika and Chuka, swing down from the trees.</desc>
-  </programme>
-  <programme start="20250303030000 +0800" stop="20250303040000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Brave Bunnies</title>
-    <desc lang="en">In the Savannah, Jeff the GIRAFFE invites Bop and Boo to play with his toy racetrack.</desc>
-  </programme>
-  <programme start="20250303040000 +0800" stop="20250303050000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">Mr. Bernard is organising his first tea-party, featuring the famous Iced Tea of the Pirates. However, the Pirates' ice-making machine breaks down.</desc>
-  </programme>
-  <programme start="20250303050000 +0800" stop="20250303060000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mumfie</title>
-    <desc lang="en">The Pirates are expecting a visit from their cousin, the terrible Krank. Mumfie tries to train them to become frightening once more so that Krank doesn't find them ridiculous.</desc>
-  </programme>
-  <programme start="20250303060000 +0800" stop="20250303070000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Sylvester believes a commercial that says eating Chewy Chomps will make him cool.</desc>
-  </programme>
-  <programme start="20250303070000 +0800" stop="20250303073000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Dolores has trouble focusing on studying for an exam.</desc>
-  </programme>
-  <programme start="20250303073000 +0800" stop="20250303080000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250302200000 +0000" stop="20250302203100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Bam enlists the help of A.D.A.M to help save his friends.</desc>
+    <desc lang="en">To the Batmobile!; The Gotham Guardians; When all of the Batwheels (except for Bam) mysteriously disappear, Bam enlists the help of A.D.A.M, the original Batmobile, to help save his friends.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/74d3f563-86e9-4826-a21b-6a81e71993cb/16-9" />
   </programme>
-  <programme start="20250303080000 +0800" stop="20250303083000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Lucas and Findley learn a new skill!</desc>
+  <programme channel="Cartoonito.uk" start="20250302203100 +0000" stop="20250302210000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cd7f2936-5dc8-4e16-a5f5-360bca6c2f86/16-9" />
   </programme>
-  <programme start="20250303083000 +0800" stop="20250303090000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mittens &amp; Pants</title>
-    <desc lang="en">Pants isn't as good at hide-and-seek as the kittens. He gets calming advice.</desc>
+  <programme channel="Cartoonito.uk" start="20250302210000 +0000" stop="20250302220000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/659c2e06-13e8-34a7-b81b-a67b5bca9474/16-9" />
   </programme>
-  <programme start="20250303090000 +0800" stop="20250303093000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Geo and his friends cheer octo grandpa up.</desc>
+  <programme channel="Cartoonito.uk" start="20250302220000 +0000" stop="20250302230000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5052d4d5-b202-4f97-aa25-c9d4985b9123/16-9" />
   </programme>
-  <programme start="20250303093000 +0800" stop="20250303100000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">MacBarm's chicken food falls out of his truck. Then, Grandma and her twin sister want to recreate their old zipline act.</desc>
+  <programme channel="Cartoonito.uk" start="20250302230000 +0000" stop="20250303000000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/210a0243-0fc2-37b0-85d9-1595c6648fda/16-9" />
   </programme>
-  <programme start="20250303100000 +0800" stop="20250303103000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250303000000 +0000" stop="20250303010000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/102a9411-fb59-3969-a776-ebea22269745/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303010000 +0000" stop="20250303020000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4371f667-074f-46ce-b57f-aa414c02534a/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303020000 +0000" stop="20250303030000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10e8976f-800d-3e88-a4ed-c528882606ff/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303030000 +0000" stop="20250303040000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2467b1a8-a248-330b-acf8-00a436824f92/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303040000 +0000" stop="20250303050000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e229369-8468-42c7-a856-d58ff631271c/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303050000 +0000" stop="20250303060000 +0000">
+    <title lang="en">CoComelon</title>
+    <desc lang="en">Welcome CoComelon! In CoComelon, Baby JJ and his family go on fun every-day experiences packed with things to learn and explore.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c45b3483-246b-437b-86c4-34f9539f3cd5/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303060000 +0000" stop="20250303063100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Paper Plane Down; Hot and Cold Running Sniffer Dog; Norman&apos;s paper airplanes really heat things up at the fire station kitchen.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d7b3046-3a27-4367-b9f9-3e452ae5d034/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303063100 +0000" stop="20250303070000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27e04bd6-935e-33b9-9f42-4a46707b447d/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303070000 +0000" stop="20250303073100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwing brings Goldie to life and the two become BFFs.</desc>
+    <desc lang="en">A Jet Out of Water; A T-Rexcellent Adventure; After refusing to practice with her new underwater mode, Batwing is unable to save Batman from Penguin&apos;s sunken ship trap.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/283cbb21-9f05-4b23-8abc-c9c8fb00eead/16-9" />
   </programme>
-  <programme start="20250303103000 +0800" stop="20250303110000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella lies to Angelie, saying she can comet surf.</desc>
+  <programme channel="Cartoonito.uk" start="20250303073100 +0000" stop="20250303083100 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/407b44e6-59f2-3427-a4c1-aa28a250133f/16-9" />
   </programme>
-  <programme start="20250303110000 +0800" stop="20250303113000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Dolores has trouble focusing on studying for an exam.</desc>
+  <programme channel="Cartoonito.uk" start="20250303083100 +0000" stop="20250303090000 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">Worth the Wait; The Great Grateful Scavenger Hunt; Mel is frustrated at how long her broken arm is taking to heal, so Barney helps her understand that some things take time.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/861ab256-a49b-41a5-aca0-27663cb5a047/16-9" />
   </programme>
-  <programme start="20250303113000 +0800" stop="20250303120000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Daffy thinks the Sandman is a monster that throws sand in children's eyes.</desc>
+  <programme channel="Cartoonito.uk" start="20250303090000 +0000" stop="20250303100000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/732e5500-40b2-498d-95e3-4dc4fe40bc4a/16-9" />
   </programme>
-  <programme start="20250303120000 +0800" stop="20250303123000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Lucas and Findley learn a new skill!</desc>
+  <programme channel="Cartoonito.uk" start="20250303100000 +0000" stop="20250303103100 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Game Over; Special Delivery; Mr. Bean becomes obsessed with gaming.; Mrs. Wicket demands that Bean stay in to take delivery of a new lounge chair.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/980610b5-21a6-4a5d-b661-1d0a360bd883/16-9" />
   </programme>
-  <programme start="20250303123000 +0800" stop="20250303130000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica goes in the big kid part of the playground!</desc>
+  <programme channel="Cartoonito.uk" start="20250303103100 +0000" stop="20250303110000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b2814b8-8367-32d3-a2df-5f5f8177d2af/16-9" />
   </programme>
-  <programme start="20250303130000 +0800" stop="20250303133000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">Russ' stew excited the Tangra-chirps!</desc>
-  </programme>
-  <programme start="20250303133000 +0800" stop="20250303140000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">The Looney Builders build themselves a playground.</desc>
-  </programme>
-  <programme start="20250303140000 +0800" stop="20250303143000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250303110000 +0000" stop="20250303120000 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwing brings Goldie to life and the two become BFFs.</desc>
+    <desc lang="en">They&apos;re the Batwheels - an awesome group of sentient super-powered crime-fighting vehicles defending Gotham City alongside a host of DC Super Heroes.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/18c681b9-aa71-4aac-ad71-017f2fbce947/16-9" />
   </programme>
-  <programme start="20250303143000 +0800" stop="20250303150000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Interstellar Ella</title>
-    <desc lang="en">Ella lies to Angelie, saying she can comet surf.</desc>
+  <programme channel="Cartoonito.uk" start="20250303120000 +0000" stop="20250303130000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b298008c-3b74-37ae-8eaf-5f560394d417/16-9" />
   </programme>
-  <programme start="20250303150000 +0800" stop="20250303153000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Builder Brothers' Dream Factory</title>
-    <desc lang="en">It's an epic game of “Find the Flag” - and the winner gets to open the mystery box of presents that Drew and Jonathan's mom brought back.</desc>
+  <programme channel="Cartoonito.uk" start="20250303130000 +0000" stop="20250303140000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4a55db9-0626-4735-98a1-5d43f5dc625f/16-9" />
   </programme>
-  <programme start="20250303153000 +0800" stop="20250303160000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mush Mush And The Mushables</title>
-    <desc lang="en">Lilit lights up and stands in place of the Beacon Mushroom.</desc>
+  <programme channel="Cartoonito.uk" start="20250303140000 +0000" stop="20250303143100 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">A Dog&apos;s Life; The Big Stink; Mr Bean dog sits for Irma and gets the idea for a new dog-walking business - how hard can it be.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/786cfcea-fcbf-4e45-b06c-9c3e07443a4a/16-9" />
   </programme>
-  <programme start="20250303160000 +0800" stop="20250303163000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Findley can't resist some very hot freshly baked cookies.</desc>
+  <programme channel="Cartoonito.uk" start="20250303143100 +0000" stop="20250303150000 +0000">
+    <title lang="en">Silly Sundays</title>
+    <desc lang="en">In this feel-good comedy series, full of heart, Sonia, Hugo, and Mel create memories with Mom, Dad, and Granny on days spent with family and friends.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/41bcbce2-973a-460b-80c1-84d539bf5e85/16-9" />
   </programme>
-  <programme start="20250303163000 +0800" stop="20250303170000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Dino Ranch</title>
-    <desc lang="en">When Sonny the Kid hides stink weeds all over the Ranch, Jon goes against Min and Miguel's advice and is goaded into a lasso challenge by the outlaw.</desc>
-  </programme>
-  <programme start="20250303170000 +0800" stop="20250303173000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Jessica's Big Little World</title>
-    <desc lang="en">Jessica goes in the big kid part of the playground!</desc>
-  </programme>
-  <programme start="20250303173000 +0800" stop="20250303180000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">When Big Old Boulder rolls down the hill towards the museum, Berta needs the Mechas help to keep it stable. / It's Food Day in Pretty Big City.</desc>
-  </programme>
-  <programme start="20250303180000 +0800" stop="20250303183000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mini Beat Power Rockers</title>
-    <desc lang="en">Dolores has trouble focusing on studying for an exam.</desc>
-  </programme>
-  <programme start="20250303183000 +0800" stop="20250303190000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250303150000 +0000" stop="20250303153100 +0000">
     <title lang="en">Batwheels</title>
-    <desc lang="en">Batwing brings Goldie to life and the two become BFFs.</desc>
+    <desc lang="en">Bam&apos;s Upgrade; Bat-Light Blow-Out; Feeling neglected after being passed over on missions, Bam asks MOE to install experimental upgrades to curry Batman&apos;s favor.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc920c0d-2b13-3d10-b843-f2321c452b0a/16-9" />
   </programme>
-  <programme start="20250303190000 +0800" stop="20250303193000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Daffy learns a swear word (represented by a sound effect) and must learn not to use it.</desc>
+  <programme channel="Cartoonito.uk" start="20250303153100 +0000" stop="20250303160000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Cry Wolf; Sheep on the Road; Norman accidentally sets off Dilys&apos; new fire alarm so she confiscates his football. To get it back he sets the alarm off again and again when a fox enters the shop.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7cf37897-aa7a-4cd8-84dc-9a1ef81129ff/16-9" />
   </programme>
-  <programme start="20250303193000 +0800" stop="20250303200000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Lucas The Spider</title>
-    <desc lang="en">Findley can't resist some very hot freshly baked cookies.</desc>
+  <programme channel="Cartoonito.uk" start="20250303160000 +0000" stop="20250303163100 +0000">
+    <title lang="en">Barney&apos;s World</title>
+    <desc lang="en">The Floor is Grape Jelly; The Castaway Crew; When David has a hard time ending playtime early to help his baby sister, Barney shows him how much fun helping others can be.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a2c6994-a513-4e5b-9f32-a68c6b03d3cc/16-9" />
   </programme>
-  <programme start="20250303200000 +0800" stop="20250303203000 +0800" channel="Cartoonito.(HD).sg">
+  <programme channel="Cartoonito.uk" start="20250303163100 +0000" stop="20250303170000 +0000">
+    <title lang="en">Mr Bean: The Animated Series</title>
+    <desc lang="en">Game Over; Special Delivery; Mr. Bean becomes obsessed with gaming.; Mrs. Wicket demands that Bean stay in to take delivery of a new lounge chair.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/980610b5-21a6-4a5d-b661-1d0a360bd883/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303170000 +0000" stop="20250303180000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d75de7e5-b78f-43cb-b018-3fff995df2ac/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303180000 +0000" stop="20250303183100 +0000">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">Batcomputer for a Day; Bats in Show; When Batcomputer shuts down for a system update, the other Batwheels must take over for her while aiding Batman in a battle against Harley Quinn.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1516c4e6-c8fd-4801-ad5a-3427164b017f/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303183100 +0000" stop="20250303190000 +0000">
+    <title lang="en">Grizzy and The Lemmings</title>
+    <desc lang="en">He is big as a bear, strong as a bear, smart... as a bear. No other animal dares to contest Grizzy. Except the lemmings..</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92914731-d7e1-35c7-995f-4b0f9029e715/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303190000 +0000" stop="20250303193100 +0000">
     <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">Porky hopes to show The Looney Builders that they can….</desc>
+    <desc lang="en">Looney Games; Roller Disco; The Looney Builders are hired by Mayor Leghorn to build the venue for the Looney Games. They soon become overwhelmed by the job and must ask for help.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/647880c8-08e0-488d-8483-2aa5a7b730b4/16-9" />
   </programme>
-  <programme start="20250303203000 +0800" stop="20250303210000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Tangranimals</title>
-    <desc lang="en">How to hush the Tangrachuck-chucks' ?</desc>
+  <programme channel="Cartoonito.uk" start="20250303193100 +0000" stop="20250303200000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Mam&apos;s Day; Alarm on the Beach; It&apos;s Mother&apos;s Day but Norman only wants to go skateboarding. He makes Dilys a very unsafe candle holder and when she takes it to the Whole Fish Cafe a fire starts.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f149d1b5-05ff-4ed6-ad5f-6019ebe5f903/16-9" />
   </programme>
-  <programme start="20250303210000 +0800" stop="20250303213000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">It's MacBarm's day off, and Zee takes over harvesting carrots with his Zee mobile. Then, Ranger Nat's playhouse won't fit through the train tunnel.</desc>
+  <programme channel="Cartoonito.uk" start="20250303200000 +0000" stop="20250303203100 +0000">
+    <title lang="en">Batwheels</title>
+    <desc lang="en">Batty Body Swap; Batty Race; After swapping motherboards and bodies, the Batwheels have to quickly learn to &quot;drive a mile in each other&apos;s wheels&quot; to stop the Legion of Zoom.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed38b709-f197-32fe-bd52-3dcc836b905a/16-9" />
   </programme>
-  <programme start="20250303213000 +0800" stop="20250303220000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Mecha Builders</title>
-    <desc lang="en">The Martians need help when they are unable to land their ship. Then, Zee can't communicate with Sif when a bird makes a home on the satellite dish.</desc>
+  <programme channel="Cartoonito.uk" start="20250303203100 +0000" stop="20250303210000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9a90bc75-6b5b-4970-b36c-1749a4813b8b/16-9" />
   </programme>
-  <programme start="20250303220000 +0800" stop="20250303230000 +0800" channel="Cartoonito.(HD).sg">
-    <title lang="en">Bugs Bunny Builders</title>
-    <desc lang="en">Queen Beatrice hires The Builders to build a workshop.</desc>
+  <programme channel="Cartoonito.uk" start="20250303210000 +0000" stop="20250303220000 +0000">
+    <title lang="en">Lu &amp; The Bally Bunch</title>
+    <desc lang="en">Lu is a ladybird who has started preschool with her new friends. Together they explore their new social lives though play, music, feelings and fun.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fc02d03f-c9bc-3372-a640-b288206d1e52/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303220000 +0000" stop="20250303230000 +0000">
+    <title lang="en">Masha and the Bear</title>
+    <desc lang="en">A little girl named Masha befriends a bear. Masha finds herself in all kinds of adventures that cause havoc in the bear&apos;s peaceful existence.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac1bafb3-e4b1-316e-9ded-30cc98cb3a09/16-9" />
+  </programme>
+  <programme channel="Cartoonito.uk" start="20250303230000 +0000" stop="20250304000000 +0000">
+    <title lang="en">Fireman Sam</title>
+    <desc lang="en">Be it a lost kite or cat, Sam and his team of Elvis, Station Officer Steele and Jupiter, their big fire engine, are always on hand to save the day.</desc>
+    <category lang="en">Children</category>
+    <category lang="en">Cartoon</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5352ee08-8a7a-3ab3-888a-afeffd14a1dc/16-9" />
   </programme>
   <programme start="20250301000000 +0800" stop="20250301020000 +0800" channel="Cinema.One.ph">
     <title lang="en">Sanib</title>
