@@ -27,6 +27,11 @@
     <url>http://www.singteltv.com.sg</url>
   </channel>
 
+    <channel id="ANIPLUS.HD.sg">
+    <display-name lang="en">ANIPLUS HD</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+
     <channel id="AXN.(HD).sg">
     <display-name lang="en">AXN (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
@@ -2982,6 +2987,790 @@
   <programme start="20250316230000 +0800" stop="20250316235500 +0800" channel="Animal.Planet.(HD).sg">
     <title lang="en">The Snake Catcher (S1)</title>
     <desc lang="en">Professional snake catcher, Julia, is on duty every day to protect people from the venomous and sometimes deadly species in Brisbane, Australia.</desc>
+  </programme>
+    <programme start="20250313000000 +0800" stop="20250313003000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Shu is in charge of the Culture Festival, and he wants to put on the play “Romeo and Juliet.” He suggests Raku and Chitoge play the parts! Chitoge, still hurt by what happened at the beach, says she won't be in the play. Who will be Raku's Juliet now?</desc>
+  </programme>
+  <programme start="20250313003000 +0800" stop="20250313010000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Surprisingly, Raku and Chitoge give a great performance as Romeo and Juliet. After the play, it looks like things are back to normal between Raku and Chitoge. Does this mean that Raku will finally choose the girl he wants to be with?</desc>
+  </programme>
+  <programme start="20250313010000 +0800" stop="20250313013000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313013000 +0800" stop="20250313020000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313020000 +0800" stop="20250313023000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">Otome brings in Retzel, an automaton from Lobelia. Nagi accepts Otome's request to analyze Retzel, makes her work at Kuronekotei, and appoints Haizakura as Retzel's mentor. Although Haizakura is taken aback by Retzel's outstanding performance, she feels uneasy about her. Moreover, Retzel seems to sneak out somewhere every night…?</desc>
+  </programme>
+  <programme start="20250313023000 +0800" stop="20250313030000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">As the number of doll incidents increases, Kuronekotei sees a decline in customers. Haizakura and the others decide to hold a proper show, and head to the red-light district in Ward Six for some tips. The dolls then try on new costumes, decorate the shop, and rehearse their singing and dancing.</desc>
+  </programme>
+  <programme start="20250313030000 +0800" stop="20250313033000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">Three days until the audition. While the orchestra members are practicing hard, Aono and Saeki have math supplementary lessons to attend after failing their tests….</desc>
+  </programme>
+  <programme start="20250313033000 +0800" stop="20250313040000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">The audition begins. The participants nervously wait for their turn. Saeki and Aono are at the center of attention. Will Aono win against his rival and gains Ayukawa-sensei's acknowledgement?</desc>
+  </programme>
+  <programme start="20250313040000 +0800" stop="20250313043000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">To live as Erika Myojo in this world, Erika makes a life-changing decision. Nao opens up about her worries. As they revisit the past, their true feelings clash in the present!</desc>
+  </programme>
+  <programme start="20250313043000 +0800" stop="20250313050000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250313050000 +0800" stop="20250313053000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Three days have passed since Mina left. Takuma indulges in an unhealthy lifestyle, ignoring the meals that Mina prepared for him. A package with a small robot that Mina ordered arrives….</desc>
+  </programme>
+  <programme start="20250313053000 +0800" stop="20250313060000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Mina educates Mamoru, who has become her "child", on the ways and importance of monitoring Takuma's health. Takuma praises Mamoru for its quick progress, but Mina's reaction seems iffy….</desc>
+  </programme>
+  <programme start="20250313060000 +0800" stop="20250313063000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Shu is in charge of the Culture Festival, and he wants to put on the play “Romeo and Juliet.” He suggests Raku and Chitoge play the parts! Chitoge, still hurt by what happened at the beach, says she won't be in the play. Who will be Raku's Juliet now?</desc>
+  </programme>
+  <programme start="20250313063000 +0800" stop="20250313070000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Surprisingly, Raku and Chitoge give a great performance as Romeo and Juliet. After the play, it looks like things are back to normal between Raku and Chitoge. Does this mean that Raku will finally choose the girl he wants to be with?</desc>
+  </programme>
+  <programme start="20250313070000 +0800" stop="20250313073000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313073000 +0800" stop="20250313080000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313080000 +0800" stop="20250313083000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">Otome brings in Retzel, an automaton from Lobelia. Nagi accepts Otome's request to analyze Retzel, makes her work at Kuronekotei, and appoints Haizakura as Retzel's mentor. Although Haizakura is taken aback by Retzel's outstanding performance, she feels uneasy about her. Moreover, Retzel seems to sneak out somewhere every night…?</desc>
+  </programme>
+  <programme start="20250313083000 +0800" stop="20250313090000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">As the number of doll incidents increases, Kuronekotei sees a decline in customers. Haizakura and the others decide to hold a proper show, and head to the red-light district in Ward Six for some tips. The dolls then try on new costumes, decorate the shop, and rehearse their singing and dancing.</desc>
+  </programme>
+  <programme start="20250313090000 +0800" stop="20250313093000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">Three days until the audition. While the orchestra members are practicing hard, Aono and Saeki have math supplementary lessons to attend after failing their tests….</desc>
+  </programme>
+  <programme start="20250313093000 +0800" stop="20250313100000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">The audition begins. The participants nervously wait for their turn. Saeki and Aono are at the center of attention. Will Aono win against his rival and gains Ayukawa-sensei's acknowledgement?</desc>
+  </programme>
+  <programme start="20250313100000 +0800" stop="20250313103000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">To live as Erika Myojo in this world, Erika makes a life-changing decision. Nao opens up about her worries. As they revisit the past, their true feelings clash in the present!</desc>
+  </programme>
+  <programme start="20250313103000 +0800" stop="20250313110000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250313110000 +0800" stop="20250313113000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Three days have passed since Mina left. Takuma indulges in an unhealthy lifestyle, ignoring the meals that Mina prepared for him. A package with a small robot that Mina ordered arrives….</desc>
+  </programme>
+  <programme start="20250313113000 +0800" stop="20250313120000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Mina educates Mamoru, who has become her "child", on the ways and importance of monitoring Takuma's health. Takuma praises Mamoru for its quick progress, but Mina's reaction seems iffy….</desc>
+  </programme>
+  <programme start="20250313120000 +0800" stop="20250313123000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Shu is in charge of the Culture Festival, and he wants to put on the play “Romeo and Juliet.” He suggests Raku and Chitoge play the parts! Chitoge, still hurt by what happened at the beach, says she won't be in the play. Who will be Raku's Juliet now?</desc>
+  </programme>
+  <programme start="20250313123000 +0800" stop="20250313130000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Surprisingly, Raku and Chitoge give a great performance as Romeo and Juliet. After the play, it looks like things are back to normal between Raku and Chitoge. Does this mean that Raku will finally choose the girl he wants to be with?</desc>
+  </programme>
+  <programme start="20250313130000 +0800" stop="20250313133000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313133000 +0800" stop="20250313140000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313140000 +0800" stop="20250313143000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">Otome brings in Retzel, an automaton from Lobelia. Nagi accepts Otome's request to analyze Retzel, makes her work at Kuronekotei, and appoints Haizakura as Retzel's mentor. Although Haizakura is taken aback by Retzel's outstanding performance, she feels uneasy about her. Moreover, Retzel seems to sneak out somewhere every night…?</desc>
+  </programme>
+  <programme start="20250313143000 +0800" stop="20250313150000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Prima Doll</title>
+    <desc lang="en">As the number of doll incidents increases, Kuronekotei sees a decline in customers. Haizakura and the others decide to hold a proper show, and head to the red-light district in Ward Six for some tips. The dolls then try on new costumes, decorate the shop, and rehearse their singing and dancing.</desc>
+  </programme>
+  <programme start="20250313150000 +0800" stop="20250313153000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">Three days until the audition. While the orchestra members are practicing hard, Aono and Saeki have math supplementary lessons to attend after failing their tests….</desc>
+  </programme>
+  <programme start="20250313153000 +0800" stop="20250313160000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Blue Orchestra</title>
+    <desc lang="en">The audition begins. The participants nervously wait for their turn. Saeki and Aono are at the center of attention. Will Aono win against his rival and gains Ayukawa-sensei's acknowledgement?</desc>
+  </programme>
+  <programme start="20250313160000 +0800" stop="20250313163000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">To live as Erika Myojo in this world, Erika makes a life-changing decision. Nao opens up about her worries. As they revisit the past, their true feelings clash in the present!</desc>
+  </programme>
+  <programme start="20250313163000 +0800" stop="20250313170000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250313170000 +0800" stop="20250313173000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Three days have passed since Mina left. Takuma indulges in an unhealthy lifestyle, ignoring the meals that Mina prepared for him. A package with a small robot that Mina ordered arrives….</desc>
+  </programme>
+  <programme start="20250313173000 +0800" stop="20250313180000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">My Wife Has No Emotion</title>
+    <desc lang="en">Mina educates Mamoru, who has become her "child", on the ways and importance of monitoring Takuma's health. Takuma praises Mamoru for its quick progress, but Mina's reaction seems iffy….</desc>
+  </programme>
+  <programme start="20250313180000 +0800" stop="20250313183000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Shu is in charge of the Culture Festival, and he wants to put on the play “Romeo and Juliet.” He suggests Raku and Chitoge play the parts! Chitoge, still hurt by what happened at the beach, says she won't be in the play. Who will be Raku's Juliet now?</desc>
+  </programme>
+  <programme start="20250313183000 +0800" stop="20250313190000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">NISEKOI</title>
+    <desc lang="en">Surprisingly, Raku and Chitoge give a great performance as Romeo and Juliet. After the play, it looks like things are back to normal between Raku and Chitoge. Does this mean that Raku will finally choose the girl he wants to be with?</desc>
+  </programme>
+  <programme start="20250313190000 +0800" stop="20250313193000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313193000 +0800" stop="20250313200000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250313200000 +0800" stop="20250313203000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">THE PROMISED NEVERLAND Season 2</title>
+    <desc lang="en">Emma reaches out to Peter Ratri and tells him to "be free". The children finally reach the portal to the human world and using Minerva's pen, they take their first step forward.</desc>
+  </programme>
+  <programme start="20250313203000 +0800" stop="20250313212000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">While reading a book about Four Legendary Weapons at the library, university student Naofumi Iwatani is all of a sudden summoned to another world. There, he becomes one of the Legendary Heroes who will save the world….</desc>
+  </programme>
+  <programme start="20250313212000 +0800" stop="20250313214500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Accepting the slave merchant's offer, Naofumi proceeds to choose a partner who will fight for him.</desc>
+  </programme>
+  <programme start="20250313214500 +0800" stop="20250313221000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">After gaining new skills and stocking up on equipment for the impending Wave, Naofumi and Raphtalia head for the Dragon Hourglass. At their destination, they reunite with Motoyasu and the other heroes….</desc>
+  </programme>
+  <programme start="20250313221000 +0800" stop="20250313223500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">In the midst of a celebratory banquet in Melromarc, Motoyasu challenges Naofumi to a duel. Motoyasu claims that it is unbecoming of a Hero to use a slave and demands freedom to Raphtalia, but in fact….</desc>
+  </programme>
+  <programme start="20250313223500 +0800" stop="20250313230000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">After receiving the pitiful amount of reward money, Naofumi reforges Raphtalia's slave seal upon her request and purchases a monster's egg.</desc>
+  </programme>
+  <programme start="20250313230000 +0800" stop="20250313232500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Magical equipment is required to prevent Filo's outfit from getting torn apart each time she transforms. Seeking for materials, Naofumi set off on yet another precarious journey.</desc>
+  </programme>
+  <programme start="20250313232500 +0800" stop="20250313235000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Upon learning that a village is in need of some herbicide, Naofumi and party approach them. He then realises the monster-transformed plants has something to do with Motoyasu….</desc>
+  </programme>
+  <programme start="20250313235000 +0800" stop="20250313235000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi and party travel Eastwards to deliver medicine to a village that was hit by an epidemic that was caused by the rotting remains of a dragon.</desc>
+  </programme>
+  <programme start="20250313235000 +0800" stop="20250314001500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi and party travel Eastwards to deliver medicine to a village that was hit by an epidemic that was caused by the rotting remains of a dragon.</desc>
+  </programme>
+  <programme start="20250314001500 +0800" stop="20250314004000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi encounters a girl named Melty at a village in the East. She asks them to accompany her to the capital and Naofumi unwillingly complies.</desc>
+  </programme>
+  <programme start="20250314004000 +0800" stop="20250314010500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi prepares for the next Wave. He recruits a young soldier and tries to let a leveled-up Raphtalia receive a Class Advancement, but the King ….</desc>
+  </programme>
+  <programme start="20250314010500 +0800" stop="20250314013000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi and his party brace for the next Wave at a village along the borders. They manage to safely evacuate all the villagers, but the Wave shows no sign of subsiding.</desc>
+  </programme>
+  <programme start="20250314013000 +0800" stop="20250314020000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">The mysterious woman introduces herself as Glass. She declares the start of the “true battle of this Wave” and easily overpowers the heroes.  Desperate, Naofumi turns to the Rage Shield once again….</desc>
+  </programme>
+  <programme start="20250314020000 +0800" stop="20250314023000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">In exchange for some materials, they received to build a "secret hideout", Ryza and friends treat Bascila to a dessert called Pudding. A busy day of secret hideout and pudding-making begins.</desc>
+  </programme>
+  <programme start="20250314023000 +0800" stop="20250314030000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Watching Ryza and friends work hard toward their goals, Klaudia decides that she wants to join them on their adventure. With advice from Lila, Klaudia begins training in secret.</desc>
+  </programme>
+  <programme start="20250314030000 +0800" stop="20250314033000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Ryza and friends decide to take on Lubart's tasks. While Lent and Tao despair of the lack of time to complete the task, Ryza has a grand plan using alchemy….</desc>
+  </programme>
+  <programme start="20250314033000 +0800" stop="20250314040000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">The opponent for Ryza and friends' final task is Bos. While the task goes smoothly, they hear a loud crash from the ruins nearby. What awaits upon their arrival is...</desc>
+  </programme>
+  <programme start="20250314040000 +0800" stop="20250314043000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Is It Wrong to Try to Pick Up Girls in a Dungeon? V</title>
+    <desc lang="en">Orario celebrates the Goddess Festival. Syr invites Bell, who returned from the deep floors, to a date as things begin to stir up in the city. Meanwhile, the "Einherjar" are on the move.</desc>
+  </programme>
+  <programme start="20250314043000 +0800" stop="20250314050000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Is It Wrong to Try to Pick Up Girls in a Dungeon? V</title>
+    <desc lang="en">Orario celebrates the Goddess Festival. Syr invites Bell, who returned from the deep floors, to a date as things begin to stir up in the city. Meanwhile, the "Einherjar" are on the move.</desc>
+  </programme>
+  <programme start="20250314050000 +0800" stop="20250314053000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250314053000 +0800" stop="20250314060000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250314060000 +0800" stop="20250314063000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">Mitsumi makes a trip back to Ikajima. After spending a fulfiling time, Mitsumi returns to the city. Filled with energy, she welcomes the new school term, but...?</desc>
+  </programme>
+  <programme start="20250314063000 +0800" stop="20250314070000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">Mitsumi has been unable to help her class prepare for the play at the cultural festival due to student council duties. She pushes herself to participate in making the script, but slips up.</desc>
+  </programme>
+  <programme start="20250314070000 +0800" stop="20250314073000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">A shipwrecked man and an ancient dragon find companionship at Nekoya.</desc>
+  </programme>
+  <programme start="20250314073000 +0800" stop="20250314080000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">A mermaid introduces a fisherman to the Restaurant to Another World. Aletta finds a second job.</desc>
+  </programme>
+  <programme start="20250314080000 +0800" stop="20250314083000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">THE PROMISED NEVERLAND Season 2</title>
+    <desc lang="en">Emma reaches out to Peter Ratri and tells him to "be free". The children finally reach the portal to the human world and using Minerva's pen, they take their first step forward.</desc>
+  </programme>
+  <programme start="20250314083000 +0800" stop="20250314090000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">POP TEAM EPIC</title>
+    <desc lang="en">Beef or Chicken? I Love You Lots. #1 Encounter. Strong Fighting Spirit. EAT THIS KATSUDON!</desc>
+  </programme>
+  <programme start="20250314090000 +0800" stop="20250314093000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250314093000 +0800" stop="20250314100000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250314100000 +0800" stop="20250314103000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">To live as Erika Myojo in this world, Erika makes a life-changing decision. Nao opens up about her worries. As they revisit the past, their true feelings clash in the present!</desc>
+  </programme>
+  <programme start="20250314103000 +0800" stop="20250314110000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250314110000 +0800" stop="20250314113000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Is It Wrong to Try to Pick Up Girls in a Dungeon? V</title>
+    <desc lang="en">Orario celebrates the Goddess Festival. Syr invites Bell, who returned from the deep floors, to a date as things begin to stir up in the city. Meanwhile, the "Einherjar" are on the move.</desc>
+  </programme>
+  <programme start="20250314113000 +0800" stop="20250314120000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250314120000 +0800" stop="20250314123000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Kingdom Season 2</title>
+    <desc lang="en">Lian Po concedes defeat and initiates a peace treaty with Meng Ao. Lian Po challenges Xin to overwrite the legends of old with his own by pulling off a daring feat that Zhao's Three Greats and Qin's six great generals would never achieve.</desc>
+  </programme>
+  <programme start="20250314123000 +0800" stop="20250314130000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Kingdom Season 2</title>
+    <desc lang="en">Meng Ao, Huan Yi and Xin are awarded for their exceptional bravery. A few months later, a rumour spreads that the Fei Xin Force is on a losing streak and that Xin is in danger of having his rank stripped from him. The Fei Xin Force prepare for a new arrival.</desc>
+  </programme>
+  <programme start="20250314130000 +0800" stop="20250314133000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Kingdom Season 2</title>
+    <desc lang="en">As their new tactician, He Liao Diao faces resistance within the Fei Xin Force. She is put to the test with the Wei army moves against them.</desc>
+  </programme>
+  <programme start="20250314133000 +0800" stop="20250314140000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Kingdom Season 2</title>
+    <desc lang="en">The Wei army presses in, with a focus on Xin. Burdened by the thought of the number of casualties, He Liao Diao pushes herself harder.</desc>
+  </programme>
+  <programme start="20250314140000 +0800" stop="20250314143000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">THE PROMISED NEVERLAND Season 2</title>
+    <desc lang="en">Emma reaches out to Peter Ratri and tells him to "be free". The children finally reach the portal to the human world and using Minerva's pen, they take their first step forward.</desc>
+  </programme>
+  <programme start="20250314143000 +0800" stop="20250314152000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">While reading a book about Four Legendary Weapons at the library, university student Naofumi Iwatani is all of a sudden summoned to another world. There, he becomes one of the Legendary Heroes who will save the world….</desc>
+  </programme>
+  <programme start="20250314152000 +0800" stop="20250314154500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Accepting the slave merchant's offer, Naofumi proceeds to choose a partner who will fight for him.</desc>
+  </programme>
+  <programme start="20250314154500 +0800" stop="20250314161000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">After gaining new skills and stocking up on equipment for the impending Wave, Naofumi and Raphtalia head for the Dragon Hourglass. At their destination, they reunite with Motoyasu and the other heroes….</desc>
+  </programme>
+  <programme start="20250314161000 +0800" stop="20250314163500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">In the midst of a celebratory banquet in Melromarc, Motoyasu challenges Naofumi to a duel. Motoyasu claims that it is unbecoming of a Hero to use a slave and demands freedom to Raphtalia, but in fact….</desc>
+  </programme>
+  <programme start="20250314163500 +0800" stop="20250314170000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">After receiving the pitiful amount of reward money, Naofumi reforges Raphtalia's slave seal upon her request and purchases a monster's egg.</desc>
+  </programme>
+  <programme start="20250314170000 +0800" stop="20250314172500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Magical equipment is required to prevent Filo's outfit from getting torn apart each time she transforms. Seeking for materials, Naofumi set off on yet another precarious journey.</desc>
+  </programme>
+  <programme start="20250314172500 +0800" stop="20250314175000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Upon learning that a village is in need of some herbicide, Naofumi and party approach them. He then realises the monster-transformed plants has something to do with Motoyasu….</desc>
+  </programme>
+  <programme start="20250314175000 +0800" stop="20250314181500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi and party travel Eastwards to deliver medicine to a village that was hit by an epidemic that was caused by the rotting remains of a dragon.</desc>
+  </programme>
+  <programme start="20250314181500 +0800" stop="20250314184000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi encounters a girl named Melty at a village in the East. She asks them to accompany her to the capital and Naofumi unwillingly complies.</desc>
+  </programme>
+  <programme start="20250314184000 +0800" stop="20250314190500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi prepares for the next Wave. He recruits a young soldier and tries to let a leveled-up Raphtalia receive a Class Advancement, but the King ….</desc>
+  </programme>
+  <programme start="20250314190500 +0800" stop="20250314193000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">Naofumi and his party brace for the next Wave at a village along the borders. They manage to safely evacuate all the villagers, but the Wave shows no sign of subsiding.</desc>
+  </programme>
+  <programme start="20250314193000 +0800" stop="20250314200000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">The Rising of the Shield Hero</title>
+    <desc lang="en">The mysterious woman introduces herself as Glass. She declares the start of the “true battle of this Wave” and easily overpowers the heroes.  Desperate, Naofumi turns to the Rage Shield once again….</desc>
+  </programme>
+  <programme start="20250314200000 +0800" stop="20250314203000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours prepares for the Regional Prelims but faces a disadvantage with fewer supporters. Chika seeks help from Saint Snow. Later, she takes on a tough dance move in search of Aqours' shine.</desc>
+  </programme>
+  <programme start="20250314203000 +0800" stop="20250314210000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours celebrates reaching Love Live! finals, but applicant numbers remain low. With the deadline nearing, Mari negotiates an extension until 5 a.m. The nine girls await the dawn...</desc>
+  </programme>
+  <programme start="20250314210000 +0800" stop="20250314213000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">It turns out that Kayo, absent from school, has disappeared after all. Satoru is tormenting himself with the thought that he should have been able to do something more. On top of that, Nakanishi Aya from the nearby elementary school has vanished too!</desc>
+  </programme>
+  <programme start="20250314213000 +0800" stop="20250314220000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">After confirming that the fire at Airi's home is related to his mother's death, Satoru relies on a note she left behind to make contact with Sawada, a former reporter for TV Ishikari...</desc>
+  </programme>
+  <programme start="20250314220000 +0800" stop="20250314223000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250314223000 +0800" stop="20250314230000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250314230000 +0800" stop="20250314233000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Ange and the others throw a house party to celebrate Robin joining O★Z. However, Eve leaves the party due to urgent matters. Robin and Ange sneak out of the house despite Guil's instructions.</desc>
+  </programme>
+  <programme start="20250314233000 +0800" stop="20250315000000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Eve joins O★Z, and the members strengthen their resolve to participate in the Visual Prison. Guil is touched by Ange's purity and reveals his past.</desc>
+  </programme>
+  <programme start="20250315000000 +0800" stop="20250315003000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315003000 +0800" stop="20250315010000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315010000 +0800" stop="20250315013000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">Tohru's now capable of handling the housework perfectly, and at Miss Kobayashi's request, she decides to make the best omurice for dinner one night.</desc>
+  </programme>
+  <programme start="20250315013000 +0800" stop="20250315020000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
+  </programme>
+  <programme start="20250315020000 +0800" stop="20250315023000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours prepares for the Regional Prelims but faces a disadvantage with fewer supporters. Chika seeks help from Saint Snow. Later, she takes on a tough dance move in search of Aqours' shine.</desc>
+  </programme>
+  <programme start="20250315023000 +0800" stop="20250315030000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours celebrates reaching Love Live! finals, but applicant numbers remain low. With the deadline nearing, Mari negotiates an extension until 5 a.m. The nine girls await the dawn...</desc>
+  </programme>
+  <programme start="20250315030000 +0800" stop="20250315033000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">It turns out that Kayo, absent from school, has disappeared after all. Satoru is tormenting himself with the thought that he should have been able to do something more. On top of that, Nakanishi Aya from the nearby elementary school has vanished too!</desc>
+  </programme>
+  <programme start="20250315033000 +0800" stop="20250315040000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">After confirming that the fire at Airi's home is related to his mother's death, Satoru relies on a note she left behind to make contact with Sawada, a former reporter for TV Ishikari...</desc>
+  </programme>
+  <programme start="20250315040000 +0800" stop="20250315043000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315043000 +0800" stop="20250315050000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315050000 +0800" stop="20250315053000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Ange and the others throw a house party to celebrate Robin joining O★Z. However, Eve leaves the party due to urgent matters. Robin and Ange sneak out of the house despite Guil's instructions.</desc>
+  </programme>
+  <programme start="20250315053000 +0800" stop="20250315060000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Eve joins O★Z, and the members strengthen their resolve to participate in the Visual Prison. Guil is touched by Ange's purity and reveals his past.</desc>
+  </programme>
+  <programme start="20250315060000 +0800" stop="20250315063000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315063000 +0800" stop="20250315070000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315070000 +0800" stop="20250315073000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">Tohru's now capable of handling the housework perfectly, and at Miss Kobayashi's request, she decides to make the best omurice for dinner one night.</desc>
+  </programme>
+  <programme start="20250315073000 +0800" stop="20250315080000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
+  </programme>
+  <programme start="20250315080000 +0800" stop="20250315083000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours prepares for the Regional Prelims but faces a disadvantage with fewer supporters. Chika seeks help from Saint Snow. Later, she takes on a tough dance move in search of Aqours' shine.</desc>
+  </programme>
+  <programme start="20250315083000 +0800" stop="20250315090000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours celebrates reaching Love Live! finals, but applicant numbers remain low. With the deadline nearing, Mari negotiates an extension until 5 a.m. The nine girls await the dawn...</desc>
+  </programme>
+  <programme start="20250315090000 +0800" stop="20250315093000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">It turns out that Kayo, absent from school, has disappeared after all. Satoru is tormenting himself with the thought that he should have been able to do something more. On top of that, Nakanishi Aya from the nearby elementary school has vanished too!</desc>
+  </programme>
+  <programme start="20250315093000 +0800" stop="20250315100000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">After confirming that the fire at Airi's home is related to his mother's death, Satoru relies on a note she left behind to make contact with Sawada, a former reporter for TV Ishikari...</desc>
+  </programme>
+  <programme start="20250315100000 +0800" stop="20250315103000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315103000 +0800" stop="20250315110000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315110000 +0800" stop="20250315113000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Ange and the others throw a house party to celebrate Robin joining O★Z. However, Eve leaves the party due to urgent matters. Robin and Ange sneak out of the house despite Guil's instructions.</desc>
+  </programme>
+  <programme start="20250315113000 +0800" stop="20250315120000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Eve joins O★Z, and the members strengthen their resolve to participate in the Visual Prison. Guil is touched by Ange's purity and reveals his past.</desc>
+  </programme>
+  <programme start="20250315120000 +0800" stop="20250315123000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315123000 +0800" stop="20250315130000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315130000 +0800" stop="20250315133000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">Tohru's now capable of handling the housework perfectly, and at Miss Kobayashi's request, she decides to make the best omurice for dinner one night.</desc>
+  </programme>
+  <programme start="20250315133000 +0800" stop="20250315140000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
+  </programme>
+  <programme start="20250315140000 +0800" stop="20250315143000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours prepares for the Regional Prelims but faces a disadvantage with fewer supporters. Chika seeks help from Saint Snow. Later, she takes on a tough dance move in search of Aqours' shine.</desc>
+  </programme>
+  <programme start="20250315143000 +0800" stop="20250315150000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Love Live! Sunshine!! Season 2</title>
+    <desc lang="en">Aqours celebrates reaching Love Live! finals, but applicant numbers remain low. With the deadline nearing, Mari negotiates an extension until 5 a.m. The nine girls await the dawn...</desc>
+  </programme>
+  <programme start="20250315150000 +0800" stop="20250315153000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">It turns out that Kayo, absent from school, has disappeared after all. Satoru is tormenting himself with the thought that he should have been able to do something more. On top of that, Nakanishi Aya from the nearby elementary school has vanished too!</desc>
+  </programme>
+  <programme start="20250315153000 +0800" stop="20250315160000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">ERASED</title>
+    <desc lang="en">After confirming that the fire at Airi's home is related to his mother's death, Satoru relies on a note she left behind to make contact with Sawada, a former reporter for TV Ishikari...</desc>
+  </programme>
+  <programme start="20250315160000 +0800" stop="20250315163000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315163000 +0800" stop="20250315170000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250315170000 +0800" stop="20250315173000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Ange and the others throw a house party to celebrate Robin joining O★Z. However, Eve leaves the party due to urgent matters. Robin and Ange sneak out of the house despite Guil's instructions.</desc>
+  </programme>
+  <programme start="20250315173000 +0800" stop="20250315180000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">VISUAL PRISON</title>
+    <desc lang="en">Eve joins O★Z, and the members strengthen their resolve to participate in the Visual Prison. Guil is touched by Ange's purity and reveals his past.</desc>
+  </programme>
+  <programme start="20250315180000 +0800" stop="20250315183000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315183000 +0800" stop="20250315190000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">I'm Getting Married to a Girl I Hate in My Class</title>
+    <desc lang="en">Saito has married his classmate and nemesis, Akane. Over time, they grow closer as their feelings for each other begin to change. The awkward couple's heart-throbbing newlywed story begins!</desc>
+  </programme>
+  <programme start="20250315190000 +0800" stop="20250315193000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">Tohru's now capable of handling the housework perfectly, and at Miss Kobayashi's request, she decides to make the best omurice for dinner one night.</desc>
+  </programme>
+  <programme start="20250315193000 +0800" stop="20250315200000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Miss Kobayashi's Dragon Maid</title>
+    <desc lang="en">The Emperor of Demise - Tohru's father - suddenly appears before her, and wants her to return home.</desc>
+  </programme>
+  <programme start="20250315200000 +0800" stop="20250315203000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">While worried about Bos, who joined the dragon subjugation squad, Ryza and friends cannot decide whether to participate or not. They fail to arrive at a conclusion, and the squad sets off.</desc>
+  </programme>
+  <programme start="20250315203000 +0800" stop="20250315210000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">At the Meteor Castle, Ryza and friends discover an epitaph that describes the reason behind the summoning of the dragon, and the existence of someone called "Philuscha"….</desc>
+  </programme>
+  <programme start="20250315210000 +0800" stop="20250315213000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Ryza and friends tell Empel and Lila about the event at the castle. Later, they stumble upon a slate fragment that says "treasure", and continue searching for the rest of the slate.</desc>
+  </programme>
+  <programme start="20250315213000 +0800" stop="20250315220000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">HIGH CARD 2</title>
+    <desc lang="en">Leo becomes the president of Pinochle, but Vijay senses his hidden struggles. When a mysterious young man appears, Vijay pursues him but fails, haunted by certain words he once told Leo.</desc>
+  </programme>
+  <programme start="20250315220000 +0800" stop="20250315223000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">Shigure, a destroyer, has been newly assigned to the 1st Striking Force, 3rd Group. After meeting the rest of her fleet, she learns the truth behind their mission.</desc>
+  </programme>
+  <programme start="20250315223000 +0800" stop="20250315230000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">The 1st Striking Force, 3rd Group sets its course for Leyte through Surigao Strait, but gets ambushed at the mouth.</desc>
+  </programme>
+  <programme start="20250315230000 +0800" stop="20250315233000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250315233000 +0800" stop="20250316000000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316000000 +0800" stop="20250316003000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">The cultural festival begins. The play put on by Mitsumi's class became a hit. Looking at her classmates invite friends from their middle school, Mitsumi feels a little bit lonely, but….</desc>
+  </programme>
+  <programme start="20250316003000 +0800" stop="20250316010000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">On the final day of the cultural festival, Ririka visits Shima's class. Shima, who feels that he has changed since entering high school, speaks to Ririka about his true feelings….</desc>
+  </programme>
+  <programme start="20250316010000 +0800" stop="20250316013000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The dwarf Guilhem brings his best friend and eternal companion to enjoy the cuisine of Nekoya. Renner scolds her love struck brother Shareef for not being proactive enough to strike up a conversation.</desc>
+  </programme>
+  <programme start="20250316013000 +0800" stop="20250316020000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The fairies discover the door leading to the restaurant and the queen of fairies decides to open it and explore what's inside.</desc>
+  </programme>
+  <programme start="20250316020000 +0800" stop="20250316023000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">While worried about Bos, who joined the dragon subjugation squad, Ryza and friends cannot decide whether to participate or not. They fail to arrive at a conclusion, and the squad sets off.</desc>
+  </programme>
+  <programme start="20250316023000 +0800" stop="20250316030000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">At the Meteor Castle, Ryza and friends discover an epitaph that describes the reason behind the summoning of the dragon, and the existence of someone called "Philuscha"….</desc>
+  </programme>
+  <programme start="20250316030000 +0800" stop="20250316033000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Ryza and friends tell Empel and Lila about the event at the castle. Later, they stumble upon a slate fragment that says "treasure", and continue searching for the rest of the slate.</desc>
+  </programme>
+  <programme start="20250316033000 +0800" stop="20250316040000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">HIGH CARD 2</title>
+    <desc lang="en">Leo becomes the president of Pinochle, but Vijay senses his hidden struggles. When a mysterious young man appears, Vijay pursues him but fails, haunted by certain words he once told Leo.</desc>
+  </programme>
+  <programme start="20250316040000 +0800" stop="20250316043000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">Shigure, a destroyer, has been newly assigned to the 1st Striking Force, 3rd Group. After meeting the rest of her fleet, she learns the truth behind their mission.</desc>
+  </programme>
+  <programme start="20250316043000 +0800" stop="20250316050000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">The 1st Striking Force, 3rd Group sets its course for Leyte through Surigao Strait, but gets ambushed at the mouth.</desc>
+  </programme>
+  <programme start="20250316050000 +0800" stop="20250316053000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316053000 +0800" stop="20250316060000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316060000 +0800" stop="20250316063000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">The cultural festival begins. The play put on by Mitsumi's class became a hit. Looking at her classmates invite friends from their middle school, Mitsumi feels a little bit lonely, but….</desc>
+  </programme>
+  <programme start="20250316063000 +0800" stop="20250316070000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">On the final day of the cultural festival, Ririka visits Shima's class. Shima, who feels that he has changed since entering high school, speaks to Ririka about his true feelings….</desc>
+  </programme>
+  <programme start="20250316070000 +0800" stop="20250316073000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The dwarf Guilhem brings his best friend and eternal companion to enjoy the cuisine of Nekoya. Renner scolds her love struck brother Shareef for not being proactive enough to strike up a conversation.</desc>
+  </programme>
+  <programme start="20250316073000 +0800" stop="20250316080000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The fairies discover the door leading to the restaurant and the queen of fairies decides to open it and explore what's inside.</desc>
+  </programme>
+  <programme start="20250316080000 +0800" stop="20250316083000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">While worried about Bos, who joined the dragon subjugation squad, Ryza and friends cannot decide whether to participate or not. They fail to arrive at a conclusion, and the squad sets off.</desc>
+  </programme>
+  <programme start="20250316083000 +0800" stop="20250316090000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">At the Meteor Castle, Ryza and friends discover an epitaph that describes the reason behind the summoning of the dragon, and the existence of someone called "Philuscha"….</desc>
+  </programme>
+  <programme start="20250316090000 +0800" stop="20250316093000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Ryza and friends tell Empel and Lila about the event at the castle. Later, they stumble upon a slate fragment that says "treasure", and continue searching for the rest of the slate.</desc>
+  </programme>
+  <programme start="20250316093000 +0800" stop="20250316100000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">HIGH CARD 2</title>
+    <desc lang="en">Leo becomes the president of Pinochle, but Vijay senses his hidden struggles. When a mysterious young man appears, Vijay pursues him but fails, haunted by certain words he once told Leo.</desc>
+  </programme>
+  <programme start="20250316100000 +0800" stop="20250316103000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">Shigure, a destroyer, has been newly assigned to the 1st Striking Force, 3rd Group. After meeting the rest of her fleet, she learns the truth behind their mission.</desc>
+  </programme>
+  <programme start="20250316103000 +0800" stop="20250316110000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">The 1st Striking Force, 3rd Group sets its course for Leyte through Surigao Strait, but gets ambushed at the mouth.</desc>
+  </programme>
+  <programme start="20250316110000 +0800" stop="20250316113000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316113000 +0800" stop="20250316120000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316120000 +0800" stop="20250316123000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">The cultural festival begins. The play put on by Mitsumi's class became a hit. Looking at her classmates invite friends from their middle school, Mitsumi feels a little bit lonely, but….</desc>
+  </programme>
+  <programme start="20250316123000 +0800" stop="20250316130000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">On the final day of the cultural festival, Ririka visits Shima's class. Shima, who feels that he has changed since entering high school, speaks to Ririka about his true feelings….</desc>
+  </programme>
+  <programme start="20250316130000 +0800" stop="20250316133000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The dwarf Guilhem brings his best friend and eternal companion to enjoy the cuisine of Nekoya. Renner scolds her love struck brother Shareef for not being proactive enough to strike up a conversation.</desc>
+  </programme>
+  <programme start="20250316133000 +0800" stop="20250316140000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The fairies discover the door leading to the restaurant and the queen of fairies decides to open it and explore what's inside.</desc>
+  </programme>
+  <programme start="20250316140000 +0800" stop="20250316143000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">While worried about Bos, who joined the dragon subjugation squad, Ryza and friends cannot decide whether to participate or not. They fail to arrive at a conclusion, and the squad sets off.</desc>
+  </programme>
+  <programme start="20250316143000 +0800" stop="20250316150000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">At the Meteor Castle, Ryza and friends discover an epitaph that describes the reason behind the summoning of the dragon, and the existence of someone called "Philuscha"….</desc>
+  </programme>
+  <programme start="20250316150000 +0800" stop="20250316153000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Atelier Ryza: Ever Darkness &amp; the Secret Hideout The Animation</title>
+    <desc lang="en">Ryza and friends tell Empel and Lila about the event at the castle. Later, they stumble upon a slate fragment that says "treasure", and continue searching for the rest of the slate.</desc>
+  </programme>
+  <programme start="20250316153000 +0800" stop="20250316160000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">HIGH CARD 2</title>
+    <desc lang="en">Leo becomes the president of Pinochle, but Vijay senses his hidden struggles. When a mysterious young man appears, Vijay pursues him but fails, haunted by certain words he once told Leo.</desc>
+  </programme>
+  <programme start="20250316160000 +0800" stop="20250316163000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">Shigure, a destroyer, has been newly assigned to the 1st Striking Force, 3rd Group. After meeting the rest of her fleet, she learns the truth behind their mission.</desc>
+  </programme>
+  <programme start="20250316163000 +0800" stop="20250316170000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">KanColle: See You Again on Another Quiet Blue Sea</title>
+    <desc lang="en">The 1st Striking Force, 3rd Group sets its course for Leyte through Surigao Strait, but gets ambushed at the mouth.</desc>
+  </programme>
+  <programme start="20250316170000 +0800" stop="20250316173000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316173000 +0800" stop="20250316180000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316180000 +0800" stop="20250316183000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">The cultural festival begins. The play put on by Mitsumi's class became a hit. Looking at her classmates invite friends from their middle school, Mitsumi feels a little bit lonely, but….</desc>
+  </programme>
+  <programme start="20250316183000 +0800" stop="20250316190000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Skip and Loafer</title>
+    <desc lang="en">On the final day of the cultural festival, Ririka visits Shima's class. Shima, who feels that he has changed since entering high school, speaks to Ririka about his true feelings….</desc>
+  </programme>
+  <programme start="20250316190000 +0800" stop="20250316193000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The dwarf Guilhem brings his best friend and eternal companion to enjoy the cuisine of Nekoya. Renner scolds her love struck brother Shareef for not being proactive enough to strike up a conversation.</desc>
+  </programme>
+  <programme start="20250316193000 +0800" stop="20250316200000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Restaurant to Another World</title>
+    <desc lang="en">The fairies discover the door leading to the restaurant and the queen of fairies decides to open it and explore what's inside.</desc>
+  </programme>
+  <programme start="20250316200000 +0800" stop="20250316203000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">POP TEAM EPIC</title>
+    <desc lang="en">Different Dimension Game Vanves. Felt Anime. The Art for It Hasn't Been Ordered Yet, So No. I Can't Lose to Anyone When It Comes to Smiling. Fortunes. Think About It.</desc>
+  </programme>
+  <programme start="20250316203000 +0800" stop="20250316210000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">POP TEAM EPIC</title>
+    <desc lang="en">Morning Mood. Shooting Game Arc. It Can Cover Up Blood. Okay, I'll Pay You in Advance. This is the List. Do it. It's Happenin', Ain't It?! No, When I Take a Good Look.</desc>
+  </programme>
+  <programme start="20250316210000 +0800" stop="20250316213000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Honey Lemon Soda</title>
+    <desc lang="en">Uka enroll in Hachimitsu High School to change herself. She meets Kai, a carefree boy who for some reason, often cares for her. Kai's existence begins to change Uka's world bit by bit.</desc>
+  </programme>
+  <programme start="20250316213000 +0800" stop="20250316220000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">Tying the Knot with an Amagami Sister</title>
+    <desc lang="en">Uryu Kamihate, an orphan studying to enter medical school, is invited to stay at Amagami Shrine in Kyoto, under the condition to marry one of the Amagami sisters and inherit the shrine!?</desc>
+  </programme>
+  <programme start="20250316220000 +0800" stop="20250316223000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250316223000 +0800" stop="20250316230000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">CARDFIGHT!! VANGUARD Divinez DELUXE Arc</title>
+    <desc lang="en">After the Destined Showdown, Akina is invited to join "DELUXE", a tournament to determine to strongest fighter! There, a man that Nao calls her mentor also emerges….</desc>
+  </programme>
+  <programme start="20250316230000 +0800" stop="20250316231500 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">After-School Hanako-kun</title>
+    <desc lang="en">Nene is looking for advice from Hanako-kun and Aoi to make toilet cleaning more enjoyable. To replace Hanako-kun among the Seven Mysteries, Mokke undergo an interview to prove their worth.</desc>
+  </programme>
+  <programme start="20250316231500 +0800" stop="20250316233000 +0800" channel="ANIPLUS.HD.sg">
+    <title lang="en">After-School Hanako-kun</title>
+    <desc lang="en">Akane gathers her friends to play "Kokkuri-san". As they continue, the game become more serious and dangerous. Mitsuba wants to make friends, Tsukasa listens to his wish and has an idea.</desc>
+  </programme>
+  <programme start="20250313003000 +0800" stop="20250313012500 +0800" channel="AXN.(HD).sg">
+    <title lang="en">HUDSON &amp; REX (SEASON 6)</title>
+    <desc lang="en">An instructor at a prestigious Ballet School dies mysteriously and Charlie and Rex discover he has ties to Russian spies.</desc>
   </programme>
   <programme start="20250313003000 +0800" stop="20250313012500 +0800" channel="AXN.(HD).sg">
     <title lang="en">HUDSON &amp; REX (SEASON 6)</title>
